@@ -1,0 +1,41 @@
+{
+  "json": {
+    "nombreProducto": "SEGURO DE VIDA BANCOMER",
+    "descripcion": "Paso 1. Paso 2. Paso 3. ",
+    "idConfiguracion": "xxx",
+    "documentosFaltantes": "11",
+    "documentosAlmacenados": "1",
+    "idTramite": "xxx",
+    "contieneBeneficiarios": true,
+    "estatusTramite": "PRUEBA",
+    "descripcion": "AXuAUINy_i",
+    "instrucciones": [
+      {
+        "id": "J84oHCU8iK",
+        "orden": 1,
+        "instruccion": "ohB0nuXVFb"
+      },
+      {
+        "id": "9l0lp84saE",
+        "orden": 2,
+        "instruccion": "YtajpZdPNX"
+      },
+      {
+        "id": "24NplSGtZy",
+        "orden": 3,
+        "instruccion": "MVDyAphWV4"
+      },
+      {
+        "id": "4KtHIe_F3t",
+        "orden": 4,
+        "instruccion": "Hf7bBK9lQi"
+      },
+      {
+        "id": "3gu2dDl2_a",
+        "orden": 5,
+        "instruccion": "snpiMy_frj"
+      }
+    ]
+  },
+  "status": 200
+}

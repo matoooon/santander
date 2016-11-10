@@ -1,0 +1,197 @@
+{
+  "json": [
+    {
+      "id": 0,
+      "descripcion": "Mapa de bits de Windows",
+      "tipoArchivo": "bmp",
+      "asociadoTramite": true
+    },
+    {
+      "id": 0,
+      "descripcion": "Imagen GIF (Graphics Interchange Format)",
+      "tipoArchivo": "gif",
+      "asociadoTramite": true
+    },
+    {
+      "id": 0,
+      "descripcion": "De imagen JPEG",
+      "tipoArchivo": "jpeg",
+      "asociadoTramite": true
+    },
+    {
+      "id": 0,
+      "descripcion": "Imagen JPEG",
+      "tipoArchivo": "jpg",
+      "asociadoTramite": true
+    },
+    {
+      "id": 0,
+      "descripcion": "Documento PDF  ",
+      "tipoArchivo": "pdf",
+      "asociadoTramite": true
+    },
+    {
+      "id": 0,
+      "descripcion": "Gráficos – Portable Network Graphics         ",
+      "tipoArchivo": "png",
+      "asociadoTramite": true
+    },
+    {
+      "id": 0,
+      "descripcion": "Documento Adobe Ilustrator",
+      "tipoArchivo": "ai",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Corel Draw Vector o CD de audio sin procesar",
+      "tipoArchivo": "cdr",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Documento Microsoft Word",
+      "tipoArchivo": "doc",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Documento Microsoft Word",
+      "tipoArchivo": "docx",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "AutoCAD DWG",
+      "tipoArchivo": "dwg",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Adobe Flash",
+      "tipoArchivo": "fla",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Archivo de Audio MP3",
+      "tipoArchivo": "mp3",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Mostrar PowerPoint",
+      "tipoArchivo": "pps",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Mostrar PowerPoint 2007+",
+      "tipoArchivo": "ppsx",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Microsoft PowerPoint Presentation",
+      "tipoArchivo": "ppt",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Microsoft PowerPoint 2007+",
+      "tipoArchivo": "pptx",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Photoshop documento",
+      "tipoArchivo": "psd",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Microsoft Publisher",
+      "tipoArchivo": "pub",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "RAR Archive",
+      "tipoArchivo": "rar",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Formato de texto enriquecido",
+      "tipoArchivo": "rtf",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "SWF de gráficos vectoriales",
+      "tipoArchivo": "swf",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Archivo; WinZipNT – TAR – GNUzip",
+      "tipoArchivo": "tgz",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Tagged Image File Format",
+      "tipoArchivo": "tif",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Archivo de texto plano",
+      "tipoArchivo": "txt",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Windows Media Audio",
+      "tipoArchivo": "wma",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "WordPerfect Document",
+      "tipoArchivo": "wpd",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Documento de texto, MS Works",
+      "tipoArchivo": "wps",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Microsoft Excel hoja de cálculo",
+      "tipoArchivo": "xls",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Microsoft Excel 2007+",
+      "tipoArchivo": "xlsx",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Archivo eXtensible Markup Language",
+      "tipoArchivo": "xml",
+      "asociadoTramite": false
+    },
+    {
+      "id": 0,
+      "descripcion": "Archivo empaquetado",
+      "tipoArchivo": "zip",
+      "asociadoTramite": false
+    }
+  ],
+  "status": 200
+}

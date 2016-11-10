@@ -1,0 +1,40 @@
+{
+  "json": [{
+    "fechaCreacion": 1444235123778,
+    "nombre": "Libre",
+    "cuerpoDefault": "Libre!",
+    "imagenFondo": "https://storage.googleapis.com/bckmsjs/libre_1.jpg",
+    "id": "7pPWDOzF2Y"
+  },{
+    "fechaCreacion": 1444235123778,
+    "nombre": "Amistad",
+    "cuerpoDefault": "Amistad!!",
+    "imagenFondo": "https://storage.googleapis.com/bckmsjs/amistad_1.jpg",
+    "id": "7pPWDOzF2Y3"
+  },{
+    "fechaCreacion": 1444235123778,
+    "nombre": "Navidad",
+    "cuerpoDefault": "Navidad!!",
+    "imagenFondo": "https://storage.googleapis.com/bckmsjs/navidad_1.jpg",
+    "id": "7pPWDOzF2Y5"
+  },{
+    "fechaCreacion": 1444235123778,
+    "nombre": "Padre",
+    "cuerpoDefault": "Padre!!",
+    "imagenFondo": "https://storage.googleapis.com/bckmsjs/padre_1.jpg",
+    "id": "7pPWDOzF"
+  },{
+    "fechaCreacion": 1444235123778,
+    "nombre": "Romantica",
+    "cuerpoDefault": "Romantica!!",
+    "imagenFondo": "https://storage.googleapis.com/bckmsjs/rosas_1.jpg",
+    "id": "7pPWD2Y6"
+  },{
+    "fechaCreacion": 1444235123778,
+    "nombre": "Cumpleaños",
+    "cuerpoDefault": "Cumpleaños!!",
+    "imagenFondo": "https://storage.googleapis.com/bckmsjs/cumpleanios_1.jpg",
+    "id": "7pPOzF2Y6"
+  }],
+  "status": 200
+}

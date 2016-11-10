@@ -1,0 +1,14 @@
+{
+  "json": {
+    "calle": "Avenida Gávilan",
+    "colonia": "San Miguel",
+    "numeroExterior": "1045",
+    "numeroInterior": "5",
+    "codigoPostal": "08756",
+    "delegacion": "Iztapalapa",
+    "ciudad": "México",
+    "estado": "DISTRITO_FEDERAL",
+    "id": "9716e0c903110dee375fbdc554045f06"
+  },
+  "status": 200
+}

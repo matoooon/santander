@@ -1,0 +1,32 @@
+{
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "esnext": true,
+  "globals": {
+    "FormData": false,
+    "XMLHttpRequest": false,
+    "$configInfo": false,
+    "$script": false,
+    "$serverInfo": false,
+    "R": false,
+    "angular": false,
+    "describe": false,
+    "expect": false,
+    "it": false,
+    "pym": false,
+    "window": false
+  },
+  "globalstrict": true,
+  "immed": true,
+  "latedef": false,
+  "mocha" : true,
+  "newcap": true,
+  "noarg": true,
+  "node": true,
+  "strict": true,
+  "undef": true,
+  "validthis": true
+}

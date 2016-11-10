@@ -1,0 +1,11 @@
+{
+  "json": {
+    "diasComprobacionSupervivencia": 15,
+    "estatusSiniestro": "INICIAL",
+    "fechaConfirmacionFallecimiento": null,
+    "fechaConfirmacionSupervivencia": 1437792237000,
+    "fechaSiniestro": null,
+    "id": "fc77b43c7263abf8ab0ca6b33efb230d9b7da11838350e7df1d0dfd5a0f709b2"
+  },
+  "status": 200
+}

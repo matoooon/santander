@@ -1,0 +1,121 @@
+{
+  "json": {
+    "advice": [{
+      "title": "Hipotecarios",
+      "helpLine": ["01800 XXXX XXXX en México y aréa metropolitana", "01800 XXXX XXXX en el interior de la República Mexicana"],
+      "questions": [{
+        "title": "1. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+        "subQuestions": [
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+          ]
+      },{
+        "title": "2. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+        "subQuestions": [
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+          ]
+      },{
+        "title": "3. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+        "subQuestions": [
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et.",
+          "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+          ]
+      },{
+        "title": "4. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "5. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "6. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "7. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      }]
+    },{
+      "title": "Bancarios",
+      "helpLine": ["01800 XXXX XXX2 en México y aréa metropolitana", "01800 XXXX XXX2 en el interior de la República Mexicana"],
+      "questions": [{
+        "title": "1. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "2. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "3. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "4. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "5. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "6. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "7. ¿Cómo cobrar un crédito Bancario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      }]
+    },{
+      "title": "Seguros",
+      "helpLine": ["01800 XXXX XXX3 en México y aréa metropolitana", "01800 XXXX XXX3 en el interior de la República Mexicana"],
+      "questions": [{
+        "title": "1. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "2. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "3. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "4. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "5. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "6. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "7. ¿Cómo cobrar un Seguro?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      }]
+    },{
+      "title": "Pensiones y afore",
+      "helpLine": ["01800 XXXX XXX4 en México y aréa metropolitana", "01800 XXXX XXX4 en el interior de la República Mexicana"],
+      "questions": [{
+        "title": "1. ¿Cómo cobrar un crédito de Pensiones y afore?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "2. ¿Cómo cobrar un crédito de Pensiones y afore?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "3. ¿Cómo cobrar un crédito de Pensiones y afore?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "4. ¿Cómo cobrar un crédito de Pensiones y afore?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "5. ¿Cómo cobrar un crédito de Pensiones y afore?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "6. ¿Cómo cobrar un crédito de Pensiones y afore?",
+        "answer": "Lorem ipsum dolor sit ametde Pensiones y aforeur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      },{
+        "title": "7. ¿Cómo cobrar un crédito hipotecario?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui iure maxime rerum laboriosam laudantium non nobis eius fugiat, pariatur architecto adipisci quisquam omnis placeat quos nisi dolores culpa enim et."
+      }]
+    }]
+  },
+  "status": 200
+}

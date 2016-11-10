@@ -1,0 +1,1052 @@
+{
+  "activate": {
+    "choose": {
+      "labels": {
+        "insuranceCustomer": "Ya soy cliente de un producto de vida Bancomer",
+        "membershipCustomer": "Contraté el servicio por teléfono",
+        "newCustomer": "Soy usuario nuevo",
+        "premiumService": "Servicio Por Siempre Gratis"
+      },
+      "title": "Selecciona una opción"
+    },
+    "insurance": {
+      "alert": {
+        "warning": {
+          "title": "No hemos encontrado ningún producto asociado a estos datos",
+          "label1": "Por favor, revisa tus datos y vuelve a enviarlos. ¿Necesitas ayuda?",
+          "label2": "Llámanos al teléfono 01 800 SIEMPRE (01 800 743 6773)"
+        },
+        "success": {
+          "title": "La póliza asociada a tus datos es:",
+          "label2": "Beneficiarios "
+        }
+      },
+      "labels": {
+        "birthday": "Fecha de nacimiento del titular",
+        "enterprise": "Póliza Colectiva",
+        "individual": "Póliza Individual",
+        "errorMessage": "El número de póliza debe contener máximo 20 dígitos",
+        "message": "Si no recuerdas el número de póliza llama al ",
+        "phone": "01 800 SIEMPRE (743 6773)",
+        "poliza": "Número de póliza",
+        "credit": "Certificado o número de crédito"
+      },
+      "title": "Ingresa tu tipo de póliza",
+      "titleSuccess": "¡Te damos la bienvenida a Por Siempre!"
+    },
+    "main": {
+      "errorMessages": {
+        "invalidCurp": "Revisa el CURP ingresado"
+      },
+      "labels": {
+        "checkCurp": "Consultar CURP",
+        "choosePass": "Selecciona tu contraseña",
+        "curp": "CURP",
+        "insurance": "¿A qué aseguradora pertenece tu producto?",
+        "message": "Ingresa la contraseña que quieras utilizar para acceder a <span class=\"purple bond-400\">Por Siempre</span>. Debe tener 8 caracteres alfanuméricos (combinación de números y letras).",
+        "passwordIndications": "Ingresa la contraseña que quieres utilizar para acceder a <span class=\"purple bond-400\">Por Siempre</span>. Debe tener 8 caracteres alfanuméricos (combinación de números y letras).",
+        "select": "Selecciona tu aseguradora"
+      },
+      "title": "Ingresa tus datos"
+    },
+    "membership": {
+      "alert": {
+        "success": {
+          "label1": "¡Enhorabuena, tienes acceso al servicio Por Siempre!"
+        }
+      },
+      "labels": {
+        "birthday": "Fecha de nacimiento del titular",
+        "membershipNumber": "Número de membrecía"
+      },
+      "error": {
+        "messageMembership": "El número de membrecía debe ser de 20 dígitos"
+      },
+      "title": "Ingresa tu número de membrecía",
+      "titleSuccess": "¡Enhorabuena, tienes acceso al servicio Por Siempre!"
+    }
+  },
+  "bancomer": {
+    "detail":{
+      "addDocument": "Agregar documento",
+      "edit": "Detalle / Editar",
+      "instruction": "Instrucciones",
+      "docReview": "Documentación revisada el ",
+      "noteValidity": "Nota: Enviada a validación el ",
+      "noteReview": "Nota: Fecha estimada de respuesta ",
+      "result": "Resultado:",
+      "docRight": "documentos correctos",
+      "docRejecteds": "documentos rechazados",
+      "docRejected": "documento rechazado",
+      "validityProcedure": "Validar documentación del trámite"
+    },
+    "labels": {
+      "search": "Buscar trámite",
+      "storedDocuments": "documentos almacenados",
+      "missingDocuments": "documentos faltantes",
+      "contentSearch": "Actualmente todas las pólizas están visibles en la sección 'Mis pólizas'",
+      "contentOther": "Actualmente todas las pólizas están visibles en la sección 'Otras'",
+      "details": {
+        "beneficiary": "Beneficiarios",
+        "document": "Elige un documento",
+        "merge": "Editar/Agregar contacto",
+        "recipients": "Contactos",
+        "warning": "Aún no has completado los datos del contacto de este beneficiario"
+      },
+      "polize": "Número de póliza",
+      "polizeTitle": "Nuevo trámite - Introduce tu póliza",
+      "polizeFound": "Hemos encontrado tu póliza",
+      "activeService": "Activar Servicio",
+      "tooltip": {
+        "approved": "Aprovado",
+        "hide": "Mover tramite a 'Otras'",
+        "show": "Mover tramite a 'Mis pólizas",
+        "reload": "Actualizar beneficiarios"
+      }
+    },
+    "modal": {
+      "title": "Escribe tu número de póliza para iniciar el trámite",
+      "instructions": "Si no recuerdas el número de póliza llama al 01 800 SIEMPRE (01 800 743 6773)",
+      "available": "Vista previa <br> no disponible"
+    },
+    "recipients": {
+      "labels": {
+        "title": "Asociar contacto al Beneficiario",
+        "subTitle": "Beneficiario:",
+        "description": "Selecciona el contacto de la persona que deseas asociar al trámite, desde el buscador. Si no está en tu lista, agrega uno nuevo.",
+        "notify": "Contactos vinculados al trámite",
+        "warning": "Aún no has vinculado contactos al trámite",
+        "warningDescription": "El contacto es la persona que recibirá la documentación del trámite en caso de fallecimiento del titular."
+      }
+    },
+    "taps": {
+      "securedDoc": "Documentos asegurado",
+      "docBeneficiary": "Documentos beneficiario",
+      "active": "Mis pólizas",
+      "inactive": "Más seguros"
+    },
+    "instruction": {
+      "title": "Instrucciones"
+    },
+    "beneficiary": {
+      "labels": {
+        "title": "Contactos"
+      }
+    },
+    "upload": {
+      "note": "Nota: ",
+      "subtitle": "¿El documento que quieres subir es alguno de estos?",
+      "securedDoc": "Documento de asegurado: ",
+      "docBeneficiary": "Documento de beneficiario: ",
+      "raised": "Raised the: "
+    }
+  },
+  "blacklist": {
+    "step1": "El correo",
+    "step2": "dejará de recibir mensajes  de este servicio."
+  },
+  "contact": {
+    "ready": "¡Tu mensaje se envió exitosamente!"
+  },
+  "discounts": {
+    "labels": {
+      "coupon": "Cupón válido hasta el ",
+      "detail": "Descripción",
+      "print": "Imprimir Cupón",
+      "show": "Ver",
+      "title": "Beneficios",
+      "discount": "de descuento.",
+      "empty": "¡No hay beneficios vigentes!",
+      "outstanding": "Destacados"
+    }
+  },
+  "documents": {
+    "insurance": {
+      "bancomer": "Seguro de vida Bancomer",
+      "beneficiary": "Beneficiario:",
+      "family": "Familia Segura",
+      "first": "Titular:"
+    },
+    "labels": {
+      "days": "día(s)",
+      "delete": "Eliminar",
+      "download": "Descargar",
+      "edit": "Editar / Agregar contactos",
+      "expired": "Vence:",
+      "folder": "Crear carpeta",
+      "formality": "Trámites asociados",
+      "load": "Subido:",
+      "modified": "Modificado",
+      "move": "Mover",
+      "name": "Nombre",
+      "newFolder": "Nueva carpeta",
+      "noInstructions": "Sin instrucciones",
+      "noRecipients": "Sin contactos asociados",
+      "open": "Abrir",
+      "placeholder": "Nombre de la nueva carpeta",
+      "processed": "Trámite",
+      "recipients": "Contactos",
+      "rename": "Renombrar",
+      "search": "Buscar documentos o carpetas",
+      "to": "Hace",
+      "upload": "Subir documento"
+    },
+    "modal": {
+      "asesoria": {
+        "placeholder": "Pregunta...",
+        "question": "¿Cómo podemos ayudarte?",
+        "request": "Te responderemos a la brevedad por correo electrónico",
+        "subject": "Asunto",
+        "title": "Solicitar asesoría personalizada",
+        "typeBusiness": "Escribe el asunto"
+      },
+      "delete": {
+        "deleteFile": "¿Deseas eliminar el archivo",
+        "deleteFolder": "¿Deseas eliminar la carpeta ",
+        "andFolder": " y todo su contenido",
+        "error1": "Existen trámites asociados o el archivo está validado por un operador. ¿Estás seguro de proseguir?",
+        "error2": "¿Estás seguro de proseguir?",
+        "success": "El archivo se eliminó con éxito.",
+        "title": "Eliminar archivo"
+      },
+      "edit": {
+        "subTitle1": "Nombre del documento",
+        "subTitleFolder": "Nombre de la carpeta",
+        "subTitle2": "Tipo de documento",
+        "title": "Editar nombre/tipo de documento",
+        "titleFolder": "Editar nombre"
+      },
+      "move": {
+        "addFolder": "Agregar carpeta",
+        "root": "Documentos",
+        "title": "Selecciona la nueva ubicación",
+        "success": "El documento cambió de ubicación exitosamente a la carpeta"
+      },
+      "recipients": {
+        "add": "Agregar contacto",
+        "advice": "El contacto es la persona que recibirá los documentos y trámites en caso de que el titular ya no esté",
+        "example": "Ej. El documento original está en el armario del comedor, en el segundo cajón",
+        "instructions": "Instrucciones para los contactos ",
+        "optional": "(Opcional)",
+        "recipientsMessage": "Contactos agregados al documento",
+        "recipientsMessageFolder": "Contactos agregados a la carpeta",
+        "title": "Instrucciones"
+      },
+      "upload": {
+        "addFiles": "Agregar archivos",
+        "allType": "Todos de este tipo",
+        "choose": "Selecciona el tipo de documento",
+        "congratulations": "¡Enhorabuena!",
+        "error": {
+          "mime": "Tipo de archivo no soportado",
+          "length": "El nombre del archivo es mayor a 100 caracteres",
+          "name": "Los caracteres válidos para el nombre de archivos son: [a-z, 0-9, . , ' ( ) ¡ = % $ ! _ — - &]",
+          "size": "El archivo excede el límite permitido (20 MB)",
+          "fileType": "El tipo de archivo no es válido para trámites"
+        },
+        "loading": "Cargando...",
+        "notification1": "Son legibles",
+        "notification2": "Están escaneados a color",
+        "notification3": "Los documentos de dos o más páginas están agrupados en un solo archivo",
+        "notification4": "Tamaño máximo por archivo​ hasta​ 20 MB",
+        "notification5": "Solo se admiten los siguientes tipos de archivo: .ai, .bmp, .cdr, .doc, .docx, .dwg, .fla, .gif, .jpeg, .jpg, .mp3, .pdf, .png, .pps, .ppt, .pptx, .ppts, .psd, .pub, .rar, .rtf, .swf, .tgz, .tif, .txt, .wma, .wpd, .wps, .xls, .xlsx, .xml, .zip",
+        "notificationTitle": "Asegúrate que los documentos:",
+        "optional": "Si quieres, puedes agregar uno o más contactos.",
+        "recipients": "Los contactos son aquellas personas que recibirán los documentos cuando el titular de la póliza ya no esté.",
+        "safeData": "Tus documentos han sido almacenados exitosamente",
+        "title": "Clasifica tus documentos"
+      }
+    },
+    "noResults": "No hay datos que coincidan con la búsqueda realizada.",
+    "searchResults": "Resultados de búsqueda",
+    "success": "La solicitud de asesoría se ha enviado correctamente.",
+    "title": "Hipotecarios"
+  },
+  "downloadDocuments": {
+    "labels": {
+      "beneficiary": "Documentos del beneficiario: ",
+      "document": "Documento: ",
+      "documents": "Documentos",
+      "download": "Por Siempre te permite almacenar de manera privada todas tus memorias y activos digitales, garantizando su perdurabilidad, acceso y disponibilidad en cualquier momento en los años por venir, aunque cambie la tecnología o faltes tú.",
+      "enjoy": "Crea tu cuenta",
+      "folder": "Carpeta: ",
+      "hi": "Hola ",
+      "insured": "Documentos del asegurado: ",
+      "instructions": "Instrucciones",
+      "leaveDocuments": " archivó documentos importantes para que los recibieras en su ausencia. Estos podrás descargarlos durante un plazo máximo de 90 días.",
+      "procedure": "Trámite: ",
+      "service": "Por Siempre ",
+      "title": "Documentos designados",
+      "update": "Última modificación: ",
+      "downloadProcedure": "Descargar documentos almacenados"
+    }
+  },
+  "cron": {
+    "title": "Tu sesión está por expirar",
+    "subtitle": "¿Deseas continuar en el portal?"
+  },
+  "globals": {
+    "accept": "Continuar",
+    "addRecipient": "Agregar Contacto",
+    "addRecipients": "Agregar Contactos",
+    "back": "Regresar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "confirmPass": "Confirmar Contraseña",
+    "contract": "https://storage.googleapis.com/bkls-porsiempre/Contrato-Multiasistencia-Por_Siempre_ES.pdf",
+    "day": "Día",
+    "delete": "Eliminar",
+    "email": "Correo electrónico",
+    "enter": "Ingresar",
+    "finish": "Finalizar",
+    "forgotPass": "¿Olvidaste tu contraseña?",
+    "message": "Mensaje",
+    "month": "Mes",
+    "move": "Mover",
+    "newPass": "Nueva Contraseña",
+    "newAccept": "Aceptar",
+    "next": "Siguiente",
+    "pass": "Contraseña",
+    "phone": "Teléfono",
+    "policyNumber": "Número de póliza",
+    "other": "Otro",
+    "save": "Guardar",
+    "send": "Enviar",
+    "select": "Seleccionar",
+    "ready": "Listo",
+    "year": "Año",
+    "yearHolder": "aaaa",
+    "errorMessages": {
+      "invalidDate": "Completa correctamente la fecha DD/MM",
+      "invalidEmail": "El correo electrónico ingresado es inválido",
+      "invalidEmailConfirmation": "Las direcciones de correo no coinciden. Inténtalo de nuevo.",
+      "invalidInput": "Revisa la información proporcionada",
+      "invalidPhone": "Deben ser 10 dígitos incluyendo LADA",
+      "invalidPassword": "Debe incluir de 6 a 10 caracteres alfanuméricos.",
+      "invalidPasswordConfirmation": "Las contraseñas no coinciden. Inténtalo de nuevo.",
+      "invalidPolice": "Número de póliza incorrecto",
+      "requiredField": "Este campo es obligatorio",
+      "selfEmail": "No puedes usar tu propia dirección de correo electrónico",
+      "genericError": "Error Interno",
+      "errorService": {
+        "ERROR-000": "Ocurrió un error en el sistema, por favor inténtalo más tarde. En caso de que vuelva a ocurrir favor de llamar al 01 800 743 6773.",
+        "ERROR-0000": "Ocurrió un error en el sistema, por favor inténtalo más tarde. En caso de que vuelva a ocurrir favor de llamar al 01 800 743 6773.",
+        "ERROR-0001": "Ocurrió un error en el sistema, por favor inténtalo más tarde. En caso de que vuelva a ocurrir favor de llamar al 01 800 743 6773.",
+        "ERROR-0002": "Error al crear los datos.",
+        "ERROR-0003": "Error al actualizar los datos.",
+        "ERROR-0004": "Error al eliminar los datos.",
+        "ERROR-0005": "Ésta póliza ya está registrada.",
+        "ERROR-0006": "Información no encontrada.",
+        "ERROR-0007": "Error al crear el modelo de email.",
+        "ERROR-0008": "Error en el envío de email",
+        "ERROR-0009": "Error al validar objeto en la petición",
+        "ERROR-0010": "El id recibido es nulo.",
+        "ERROR-0011": "La entidad recibida es nula.",
+        "ERROR-0012": "La entidad recibida es nula.",
+        "ERROR-0013": "Filtro Inválido.",
+        "ERROR-0101": "No es posible procesar ésta URL debido a que no es válida.",
+        "ERROR-0102": "Error al eliminar por hash una URL Segura Entity.",
+        "ERROR-0103": "No es posible procesar ésta URL debido a que no es vigente.",
+        "ERROR-0104": "No es posible procesar ésta URL debido a que no existe.",
+        "ERROR-0105": "Error al actualizar una URL Segura Entity.",
+        "ERROR-0106": "Error al insertar un nuevo registro de URL Segura Entity.",
+        "ERROR-0201": "Estimado cliente la liga ingresada es inválida.",
+        "ERROR-0202": "No hemos encontrado ningún producto asociado a la información capturada. Por favor, revisa tus datos y vuelve a intentarlo. <br> ¿Necesitas ayuda? Llama al teléfono 01 800 SIEMPRE (743 6773).",
+        "ERROR-0203": "Estimado cliente la póliza proporcionada está cancelada. En caso de requerir información de nuestros productos llame al 01 800 SIEMPRE (743 6773)",
+        "ERROR-0204": "Estimado cliente, su cuenta está cancelada, será redirigido al portal. Para más información llame al 01 800 SIEMPRE (743 6773)",
+        "ERROR-0205": "Estimado cliente, su cuenta no cumple con los requisitos para la activación.",
+        "ERROR-0206": "Estimado cliente, el producto asociado a esta póliza no existe en Por Siempre.",
+        "ERROR-0207": "Estimado cliente, la entidad gestora asociada a este producto no existe en Por Siempre.",
+        "ERROR-0208": "Estimado cliente, su cuenta no está en el estatus correcto para realizar la activación.",
+        "ERROR-0209": "Ocurrio un error al consultar el servicio para recuperar los datos de la póliza",
+        "ERROR-0210": "Se obtuvo mas de un resultado al recuperar la información de la póliza",
+        "ERROR-0211": "Estimado cliente, la póliza proporcionada no cumple con los requisitos para completar la activación del servicio Por Siempre.",
+        "ERROR-0212": "Estimado cliente, la fecha de nacimiento del titular que eligió, no coincide con la que tenemos registrada en el sistema.",
+        "ERROR-0301": "Se tiene prohibido cambiar de una institución de seguros a otra.",
+        "ERROR-0405": "Usuario duplicado.",
+        "ERROR-0406": "Cliente no encontrado.",
+        "ERROR-500": "Error en la conexión del servicio.",
+        "ERROR-501": "Cuenta Cliente inexistente.",
+        "ERROR-502": "Número máximo de testigos alcanzado.",
+        "ERROR-503": "Testigo inexistente.",
+        "ERROR-504": "El testigo ya está confirmado.",
+        "ERROR-505": "El contacto ya está registrado. Puedes capturar uno nuevo o  agregar uno existente desde tu lista de contactos.",
+        "ERROR-506": "Contacto duplicado.",
+        "ERROR-507": "No ha concluido el periodo de vigencia para la confirmación del Testigo.",
+        "ERROR-601": "Contacto inexistente.",
+        "ERROR-602": "El contacto es un Testigo.",
+        "ERROR-603": "Cuenta Cliente inexistente.",
+        "ERROR-604": "Este contacto ya está registrado, favor de capturar uno nuevo.",
+        "ERROR-605": "El teléfono fijo o móvil es requerido.",
+        "ERROR-606": "El destinatario tiene trámites asociados",
+        "ERROR-701": "Grupo Beneficio Duplicado.",
+        "ERROR-702": "El grupo de beneficio no es válido.",
+        "ERROR-703": "No es posible registrar más de un beneficio súper-destacado.",
+        "ERROR-704": "No es posible registrar más de un beneficio súper destacado.",
+        "ERROR-710": "No es posible registrar un beneficio destacado debido a que ya existe un beneficio super-destacado.",
+        "ERROR-711": "La entidad recibida es nula.",
+        "ERROR-712": "El criterio de búsqueda recibido es nulo.",
+        "ERROR-713": "Filtro Inválido.",
+        "ERROR-801": "Tema inexistente.",
+        "ERROR-802": "No se puede eliminar el tema debido a que contiene una lista de subtemas!",
+        "ERROR-803": "Entidad tema inexistente!",
+        "ERROR-821": "Subtema Entity inexistente!",
+        "ERROR-0901": "El correo electrónico proporcionado ya se encuentra registrado en el sistema, intente nuevamente.",
+        "ERROR-1001": "Estimado cliente, el usuario o contraseña proporcionados son incorrectos, favor de verificarlos.",
+        "ERROR-1002": "Estimado cliente la póliza proporcionada se encuentra vencida. Te sugerimos comunicarte a tu aseguradora.",
+        "ERROR-1003": "Estimado cliente la póliza proporcionada está cancelada. Para mayor información sobre este producto llame al 01 800 SIEMPRE (743 6773).",
+        "ERROR-1004": "Estimado cliente, la cuenta proporcionada ya no está activa.",
+        "ERROR-1005": "Estimado cliente, la cuenta no está asociada a una póliza válida",
+        "ERROR-1006": "Estimado cliente, ocurrio un error al intentar resetear su contraseña",
+        "ERROR-1101": "Identificador de documento no válido.",
+        "ERROR-1102": "Ya existe una carpeta con el nombre ingresado, favor de modificarlo.",
+        "ERROR-1103": "Ya existe un documento con el nombre ingresado, favor de modificarlo.",
+        "ERROR-1104": "El documento no es válido.",
+        "ERROR-1105": "No es posible crear el documento.",
+        "ERROR-1106": "No existe la ubicación destino.",
+        "ERROR-1107": "Recurso con asociaciones a otras entidades.",
+        "ERROR-1108": "Recurso no encontrado.",
+        "ERROR-1109": "Cliente inválido.",
+        "ERROR-1110": "Has excedido el tamaño máximo de almacenamiento del servicio.",
+        "ERROR-1112": "El trámite tiene contactos asociados.",
+        "ERROR-1113": "El trámite tiene trámites pendientes de revisión o aceptados.",
+        "ERROR-1114": "No es posible eliminar documentos asociados a un trámite.",
+        "ERROR-1115": "No se permite modificar el tipo si el documento cuenta tramites.",
+        "ERROR-1300": "Error de parámetros de entrada.",
+        "ERROR-1301": "No cuenta con los permisos para realizar esta operación.",
+        "ERROR-1302": "El id de la entidad no es válido.",
+        "ERROR-1303": "El registro inbox que se intenta actualizar no existe en la base de datos.",
+        "ERROR-1304": "No es posible asignar/dictaminar la tarea pues ya fue dictaminada.",
+        "ERROR-1305": "No se reúnen las condiciones requeridas para realizar esta operación.",
+        "ERROR-1306": "No se encontró información relacionada al usuario en la base de datos.",
+        "ERROR-1307": "No es posible dictaminar la tarea puesto que no ha sido asignada.",
+        "ERROR-1308": "No se pudo iniciar el flujo de supervivencia con testigos debido a que no se cumplen las condiciones requeridas.",
+        "ERROR-1400": "La póliza ya no cumple las condiciones para tener derecho al servicio de Por Siempre",
+        "ERROR-1500": "El tipo de sugerencia ya existe",
+        "ERROR-1501": "El tipo de sugerencia no existe",
+        "ERROR-1502": "No se puede eliminar el tipo de sugerencia Asesorías",
+        "ERROR-1510": "El tipo de documento ya existe",
+        "ERROR-1511": "El tipo de documento no existe",
+        "ERROR-1512": "No es posible borrar el documento debido a que ya esta en uso.",
+        "ERROR-1520": "El motivo de rechazo ya existe",
+        "ERROR-1521": "El motivo de rechazo no existe",
+        "ERROR-1522": "No es posible eliminar el motivo de rechazo Ilegible.",
+        "ERROR-1530": "La entidad gestora ya existe",
+        "ERROR-1531": "La entidad gestora no existe",
+        "ERROR-1532": "No es posible eliminar la entidad gestora puesto que tiene una lista de productos",
+        "ERROR-1601": "Datos del contacto inválidos",
+        "ERROR-1602": "Cliente inválido",
+        "ERROR-1603": "Datos de documento inválidos",
+        "ERROR-1604": "El documento ya está asociado al contacto",
+        "ERROR-1605": "La carpeta ya está asociada al contacto",
+        "ERROR-1701": "La fecha de envío es necesaria.",
+        "ERROR-1702": "Cliente Inválido.",
+        "ERROR-1703": "Plantilla de mensaje Invalida.",
+        "ERROR-1801": "Configuración Trámite inexistente",
+        "ERROR-1802": "Nombre de configuración de trámite duplicada",
+        "ERROR-1803": "Clave de configuración de trámite duplicada",
+        "ERROR-1804": "Configuración Trámite inválido, ya existe una Configuración de Trámite para el Producto seleccionado.",
+        "ERROR-1805": "Configuración Trámite inválido, es requerido al menos ingresar 1 instrucción.",
+        "ERROR-1806": "Configuración Trámite inválido, el Tipo de Documento asociado inexistente.",
+        "ERROR-1807": "Configuración Trámite inválido, existen Tipos de Documento repetidos asignados al (los) Beneficiario (s)",
+        "ERROR-1808": "Configuración Trámite inválido, es requerido al menos ingresar 1 tipo de documento requerido al (los) Beneficiario (s)",
+        "ERROR-1809": "No es posible eliminar ésta Configuración Trámite ya que cuenta con Trámites asociados.",
+        "ERROR-1810": "Configuración Trámite inválido, no es permitido registrar tipos de documento asignado(s) a Beneficiario(s) en Trámites que no aceptan Beneficiario(s).",
+        "ERROR-1811": "Configuración Trámite inválido, existen Tipos de Documento repetidos asignados al Titular/Asegurado.",
+        "ERROR-1812": "Configuración Trámite inválido, es requerido al menos ingresar 1 tipo de documento requerido al Titular/Asegurado.",
+        "ERROR-1813": "Trámite inexistente.",
+        "ERROR-1814": "La Entidad Gestora no está considerada para la creación de trámites.",
+        "ERROR-1822": "Nombre de configuración de trámite duplicada.",
+        "ERROR-1833": "Clave de configuración de trámite duplicada.",
+        "ERROR-2000": "El estatus debe ser RECHAZADO para poder ser actualizado",
+        "ERROR-2001": "La documentacion no esta completa",
+        "ERROR-2002": "Tramite Incorrecto",
+        "ERROR-2003": "Inbox de trámite incorrecto",
+        "ERROR-2004": "Aún hay documentos pendientes de dictaminar.",
+        "ERROR-2005": "El tramite aun no esta completo",
+        "ERROR-2006": "El trámite debe estar en espera de validación para realizar una dictaminación",
+        "ERROR-2007": "Datos de revisión inválidos",
+        "ERROR-2011": "Uno o mas tipos de documentos contienen una fecha de  vigencia invalida.",
+        "ERROR-2108": "No existe información del documento (s) del titular con respecto al trámite",
+        "ERROR-2109": "Documento invalido",
+        "ERROR-2110": "Información trámite titular documento invalido",
+        "ERROR-2111": "No existe información del documento (s) del beneficiario con respecto al trámite",
+        "ERROR-2112": "Documento invalido",
+        "ERROR-2113": "Información trámite beneficiario documento invalido",
+        "ERROR-2201": "Trámite inválido",
+        "ERROR-2202": "No existe una asociación entre el trámite y el contacto",
+        "ERROR-2203": "La asociación entre el trámite y el contacto ya existe",
+        "ERROR-2204": "La configuración del trámite es inválida",
+        "ERROR-2209": "El contacto no cuenta con una correcta asociación con Póliza, Trámite o Titular.",
+        "ERROR-2300": "El beneficiario ya tiene un contacto asociado",
+        "ERROR-2301": "El beneficiario no existe",
+        "ERROR-2302": "El contacto no existe",
+        "ERROR-2303": "La asociación no existe",
+        "ERROR-2304": "La asociación ya existe",
+        "ERROR-2400": "El producto no existe",
+        "ERROR-2401": "No es posible eliminar el producto debido a que contiene una configuración de trámite",
+        "ERROR-2500": "No existe información del titular con respecto al trámite",
+        "ERROR-2501": "El trámite no existe o ya no se encuentra en la etapa de validación",
+        "ERROR-2502": "El tipo de documento requerido para el titular no existe",
+        "ERROR-2503": "El titular no existe",
+        "ERROR-2504": "No existe información del beneficiario con respecto al trámite",
+        "ERROR-2505": "El trámite no existe",
+        "ERROR-2506": "El tipo de documento requerido para el beneficiario no existe",
+        "ERROR-2507": "El beneficiario no existe",
+        "ERROR-2508": "No existe información del documento (s) del titular con respecto al trámite",
+        "ERROR-2509": "Documento invalido",
+        "ERROR-2510": "Información trámite titular documento invalido",
+        "ERROR-2511": "No existe información del documento (s) del beneficiario con respecto al trámite",
+        "ERROR-2512": "Documento invalido",
+        "ERROR-2513": "Este documento ya se encuentra asociado al trámite",
+        "ERROR-2514": "Trámite inválido",
+        "ERROR-2515": "No existe una asociación entre el trámite y el contacto",
+        "ERROR-2516": "La asociación entre el trámite y el contacto ya existe",
+        "ERROR-2517": "La configuración del trámite es inválida",
+        "ERROR-2518": "El trámite es inválido",
+        "ERROR-2519": "La póliza es inválida",
+        "ERROR-2520": "La entidad gestora no está considerada para la creación de trámites",
+        "ERROR-2521": "No es posible actualizar los beneficiarios en este momento ya que el trámite se encuentra en revisión",
+        "ERROR-2522": "Ya existe un trámite asociado al mismo producto.",
+        "ERROR-2523": "El trámite seleccionado no corresponde a la póliza proporcionada",
+        "ERROR-2600": "El beneficiario ya tiene un contacto asociado",
+        "ERROR-2601": "El beneficiario no existe",
+        "ERROR-2602": "El contacto no existe",
+        "ERROR-2603": "La asociación no existe",
+        "ERROR-2604": "La asociación ya existe",
+        "ERROR-2700": "Trámite inválido",
+        "ERROR-2701": "Contacto inválido",
+        "ERROR-2702": "La asociación no existe",
+        "ERROR-2703": "La asociación ya existe",
+        "ERROR-2800": "El producto no existe",
+        "ERROR-2801": "No es posible eliminar el producto debido a que contiene una configuración de trámite",
+        "ERROR-FB-001": "Token no válido.",
+        "ERROR-FB-002": "Error en la creación del Archivo.",
+        "ERROR-FB-003": "Error en la recuperación del Archivo.",
+        "ERROR-FB-004": "Error al eliminar Archivo.",
+        "ERROR-FB-005": "Cliente no encontrado.",
+        "ERROR-FB-006": "Datos inválidos.",
+        "ERROR-FB-007": "No encontrado.",
+        "ERROR-FB-008": "El proceso de registro ha expirado, favor de reabrir el correo que se le envío para la activación.",
+        "ERROR-FB-009": "Ocurrió un error al descifrar.",
+        "ERROR-FB-010": "Una o más de las actualizaciones no se pudieron llevar a cabo.",
+        "ERROR-FB-011": "No se pudieron obtener una o más de las entidades.",
+        "ERROR-FB-012": "La operación solicitada no está permitida.",
+        "ERROR-FB-013": "Error en conversión de tipos de datos.",
+        "ERROR-FB-014": "No es posible crear el beneficio ya que no se cumple con la información correcta y suficiente para la creación de los archivos.",
+        "ERROR-FB-015": "No es posible crear el catálogo ya que no se cumple con el tipo de imagen requerido",
+        "ERROR-FB-016": "El proceso de establecimiento de contraseña ha expirado, favor de abrir el correo que recibió para su activación",
+        "ERROR-FB-017": "No se encontró el cliente en sesión.",
+        "ERROR-FB-020": "Error al recuperar información del archivo",
+        "ERROR-FB-021": "Error al actualizar la información del cliente",
+        "ERROR-FB-022": "Error al desasociar el documento del trámite",
+        "ERROR-FB-024": "El usuario o la contraseña ingresados son incorrectos.",
+        "ERROR-FB-025": "El proceso de cambio de contraseña ha expirado, favor de reabrir el correo que se le envió para dicho cambio.",
+        "ERROR-FB-026": "Error al intentar realizar el cambio de contraseña",
+        "ERROR-FB-027": "La contraseña es incorrecta, favor de ingresarla nuevamente",
+        "ERROR-FB-028": "El tipo documento del archivo seleccionado no coincide con el tipo documento de la casilla.",
+        "ERROR-FB-029": "Error al desasociar el documento.",
+        "ERROR-FB-031": "Error en validación de ReCaptcha.",
+        "ERROR-FB-032": "Anteriormente se ha detectado actividad inusual en esta cuenta, queremos validar que no eres un robot.",
+        "CIFRA-001": "Cliente no autorizado.",
+        "RUNTIME-EX-01": "Error de ejecución del servicio.",
+        "ERROR-PRODUCTO-02": "No es posible eliminar el producto debido a que contiene una configuración de trámite!"
+      }
+    },
+    "footer": {
+      "copyright": "Todos los Derechos Reservados.",
+      "legal": "Aviso de Privacidad",
+      "terms": "Términos y Condiciones"
+    },
+    "home": {
+      "content": {
+        "first": "Almacena tus documentos importantes (actas, testamentos, identificaciones, escrituras, pólizas, etc.) y asegúrate de tenerlos siempre a tu alcance.",
+        "second": "Agiliza el trámite de pago de tu póliza de vida para familiares y/o beneficiarios.",
+        "third": "Recuérdales a tus seres queridos lo importante que son para ti; programa el envío de felicitaciones, confesiones o mensajes de aliento para cuando tu ya no estés.",
+        "fourth": "Disfruta de gran variedad de descuentos, promociones y regalos pensados sólo para ti."
+      }
+    },
+    "menuItems": {
+      "advice": "Temas de Interés",
+      "bancomer": "Póliza",
+      "discounts": "Beneficios",
+      "documents": "Documentos",
+      "home": "Inicio",
+      "logout": "Cerrar sesión",
+      "message": "Crear mensaje",
+      "messages": "Mensajes",
+      "profile": "Mi Perfil",
+      "recipients": "Contactos",
+      "suggesting": "Enviar sugerencia",
+      "upload": "Subir documento",
+      "witnesses": "Testigos",
+      "subTitles": {
+        "first": "Documentos protegidos",
+        "second": "Agiliza tus trámites",
+        "third": "Mensajes por siempre",
+        "fourth": "Beneficios"
+      }
+    }
+  },
+  "langCode": "es-MX",
+  "login": {
+    "labels": {
+      "enter": "Ingresar",
+      "forgotPass": "¿Olvidaste tu contraseña?",
+      "keepLogin": "No cerrar sesión",
+      "login": "Entrar",
+      "pass": "Contraseña",
+      "user": "Correo electrónico",
+      "register": "Aún no estás registrado en Por Siempre.",
+      "registerHref": "Regístrate aquí."
+    },
+    "messages": {
+      "modifiedPass": "La contraseña fue modificada con éxito.",
+      "wrongPass": "Estimado cliente, el usuario o contraseña proporcionados son incorrectos, favor de verificarlos.",
+      "wrongUser": "El usuario capturado no existe."
+    },
+    "modal": {
+      "password": {
+        "title": "¿Olvidaste tu contraseña?",
+        "emailregister": "Ingresa tu correo electrónico para restablecer tu contraseña.",
+        "email": "Correo electrónico"
+      },
+      "email": {
+        "title": "Revisa tu correo electrónico",
+        "link": "Hemos enviado una liga de acceso segura a:",
+        "password": "Utilízala para restablecer tu contraseña"
+      }
+    },
+    "title": "Ingresa a tu cuenta"
+  },
+  "mortgage": {
+    "labels": {
+      "themes": "No hay temas publicados",
+      "help1": "Teléfonos de atención",
+      "help2": "Solicitar asesoría personalizada",
+      "help3": "Teléfonos de <br> atención",
+      "help4": "Solicitar asesoría <br> personalizada",
+      "helpInformation": "Para más información llame al:",
+      "input": "Buscar temas de interés",
+      "errorSearch": "No hay datos que coincidan con la búsqueda realizada"
+    },
+    "modal": {
+      "asesoria": {
+        "title": "Solicitar asesoría personalizada",
+        "request": "Te responderemos a la brevedad al correo electrónico registrado.",
+        "subject": "Tema de interés",
+        "typeBusiness": "Escribe el tema de interés",
+        "question": "¿En qué podemos ayudarte?",
+        "placeholder": "Ingresa tus dudas aquí...",
+        "suggestedContent": "Pendiente por capturar el contenido de la asesoría personalizada. Intenta nuevamente.",
+        "matterContent": "Pendiente por capturar el contenido del campo 'Escribe tu asunto'."
+      }
+    },
+    "success": "La solicitud de asesoría se ha enviado correctamente.",
+    "title": "Hipotecarios"
+  },
+  "messages": {
+    "labels": {
+      "empty": {
+        "description": "Programa el envío de mensajes en vida o para cuando ya no estés; y hazles saber que los recordarás por siempre.",
+        "iconDate": "Selecciona una fecha de envío",
+        "iconMessage": "Puedes usar nuestras plantillas predeterminadas",
+        "iconPhoto": "Elige una imagen especial para ustedes.",
+        "subtitle": "Aún no has agregado mensajes",
+        "titleDate": "Fecha",
+        "titleMessage": "Crear mensaje",
+        "titlePhoto": "Agregar una foto"
+      },
+      "date": {
+        "title": "Selecciona una opción",
+        "messageOption": {
+          "first": {
+            "title": "Mensajes en vida",
+            "subTitle": "Ej. Aniversario, Cumpleaños de mi hija"
+          },
+          "second": {
+            "title": "Mensajes para siempre",
+            "subTitle": "Ej. el 14 de febrero tras confirmación de fallecimiento"
+          }
+        },
+        "messageSubOption": {
+          "first": {
+            "title": "Inmediato tras fallecimiento"
+          },
+          "second": {
+            "title": "Fecha concreta tras fallecimiento"
+          }
+        },
+        "repeat": "Repetir",
+        "messageSubmitted": "Tu mensaje se enviará inmediatamente tras la confirmación del fallecimiento",
+        "totalTimes": {
+          "one": "Una sola vez",
+          "two": "Dos veces",
+          "tree": "Tres veces",
+          "four": "Cuatro veces",
+          "five": "Cinco veces",
+          "six": "Seis veces",
+          "seven": "Siete veces",
+          "eight": "Ocho veces",
+          "nine": "Nueve veces",
+          "ten": "Diez veces",
+          "twenty": "Veinte veces",
+          "twentyFive": "Veinticinco veces",
+          "thirty": "Treinta veces",
+          "forty": "Cuarenta veces",
+          "fifty": "Cincuenta veces"
+        }
+      },
+      "delete": {
+        "title": "Eliminar Mensaje",
+        "question": "¿Estás seguro que quieres eliminar este mensaje?"
+      },
+      "dashboard": {
+        "meta": {
+          "last": "Hace",
+          "days": "días",
+          "day": "día",
+          "of": "de"
+        },
+        "recipient": {
+          "and": "y",
+          "dateSubmitted": "Fecha de envío",
+          "empty": "No existen mensajes que coincidan con tu criterio de búsqueda.",
+          "more": "más",
+          "to": "Para"
+        }
+      },
+      "steps": {
+        "message": "Mensaje",
+        "image": "Imagen",
+        "date": "Fecha"
+      },
+      "text": {
+        "begin": "Comenzar",
+        "body": "Texto del mensaje",
+        "checker": "corrección ortográfica",
+        "stop": "Detener",
+        "subject": "El asunto del mensaje",
+        "template": "Selecciona tu plantilla",
+        "title": "Título",
+        "recipient": "Contactos agregados al mensaje"
+      },
+      "image": {
+        "download": {
+          "title": "Subir desde Por Siempre",
+          "subTitle": "Selecciona el documento que deseas subir"
+        },
+        "title": "Agrega una imagen al mensaje"
+      }
+    },
+    "buttons": {
+      "changeImage": "Cambiar imagen",
+      "create": "Crear mensaje",
+      "delete": "Eliminar",
+      "edit": "Editar mensaje",
+      "next": "Siguiente",
+      "preview": "Previsualizar mensaje",
+      "programmed": "Mensajes programados",
+      "search": "Buscar mensaje",
+      "skip": "Omitir este paso",
+      "up": "Subir",
+      "upload": "Subir desde mi Computadora",
+      "uploadCloud": "Subir desde Por Siempre"
+    }
+  },
+  "notifications": {
+    "labels": {
+      "h4": "Notificaciones",
+      "content": "Sin notificaciones recientes"
+    },
+    "carrousel": {
+      "partition": "de"
+    }
+  },
+  "policy": {
+    "title": "Pólizas Activas",
+    "newPolicy": "Nueva Póliza",
+    "placeHolder": "Selecciona una póliza",
+    "errorPolicy": "Seleciona alguna poliza para continuar",
+    "selectActive": "Póliza selecionada",
+    "noPolicy": "Numero de póliza",
+    "product": "Producto",
+    "updateConfirm": "Confirma tu actualización",
+    "policy": "Póliza",
+    "policyConfirm_1": "La póliza registrada en Por Siempre será reemplazada por la ",
+    "policyConfirm_2": "Posteriormente te solicitaremos ingresar tu usuario y contraseña ¿Deseas continuar?",
+    "policySelected": "La póliza registrada en Por Siempre está vencida, puedes seleccionar una diferente para ingresar a tu cuenta",
+    "policyAdd": "La póliza registrada en Por Siempre está vencida, puedes agregar una diferente para ingresar a tu cuenta"
+
+  },
+  "profile": {
+    "buttons": {
+      "editUser": "Modificar"
+    },
+    "main": {
+      "address": "Domicilio",
+      "download": "Descargar contrato",
+      "polize": "Póliza asociada a la cuenta",
+      "user": "Datos del usuario",
+      "security": "Seguridad",
+      "survival": "Periodo de inactividad seleccionado",
+      "cell": "Celular",
+      "tell": "Teléfono fijo",
+      "curp": "CURP",
+      "photo": "Cambiar foto",
+      "profilePhoto": "Foto perfil",
+      "polizeFound": "Hemos encontrado tu póliza"
+    },
+    "edit": {
+      "user": {
+        "title": "Modificar datos del usuario"
+      },
+      "address": {
+        "city": "Ciudad",
+        "colony": "Colonia",
+        "intNumber": "Número interior",
+        "outNumber": "Número exterior",
+        "postalCode": "Código Postal",
+        "state": "Estado",
+        "street": "Calle",
+        "title": "Modificar domicilio",
+        "town": "Delegación/Municipio",
+        "empty": "Completa los datos de domicilio para que podamos darte un mejor servicio",
+        "notAdd": "Aún no has agregado el domicilio"
+      },
+      "polize": {
+        "title": "Modificar póliza"
+      },
+      "security": {
+        "email": {
+          "name": "Usuario/correo electrónico",
+          "title": "Modificar usuario/correo electrónico",
+          "subTitle": "El correo electrónico que registres será el usuario con el que podrás ingresar a Por Siempre",
+          "newEmail": "Nuevo correo electrónico",
+          "confirmEmail": "Confirmar correo",
+          "password": "Contraseña de Por Siempre"
+        },
+        "password": {
+          "name": "Contraseña",
+          "title": "Modificar contraseña"
+        }
+      },
+      "survival": {
+        "name": "Recibir correos:",
+        "title": "Modificar periodo de inactividad"
+      },
+      "unsuscribe": {
+        "button": "Cancelar el servicio",
+        "name": "Quiero cancelar el servicio",
+        "title": "Cancelación del servicio",
+        "keep": "Conservar mi cuenta",
+        "subTitle": "Al cancelar este servicio, todos los archivos que tienes almacenados serán eliminados."
+      }
+    }
+  },
+  "recipients": {
+    "labels": {
+      "input": "Buscar contactos",
+      "associated": "Asociado al Beneficiario",
+      "insurance": "de Seguro de Vida Bancomer",
+      "showElements": "Ver",
+      "hideElements": "Ocultar",
+      "formalities": "Trámites",
+      "folders": "Carpetas",
+      "documents": "Documentos",
+      "messages": "Mensajes",
+      "errorSearch": "No hay elementos que correspondan a tus criterios de búsqueda",
+      "warning": "No hay documentos asociados a este contacto"
+    },
+    "modal": {
+      "edit": "Editar Contacto",
+      "delete": "Eliminar Contacto",
+      "user": "Si decides eliminar a este contacto, no podrás compartir con él, la siguiente información:",
+      "question": "¿Estás seguro de que quieres eliminar a",
+      "compQuestion": "de tus contactos?"
+    },
+    "title": "Agregar contactos"
+  },
+  "recovery": {
+    "labels": {
+      "intro": "Introduce la contraseña que quieres utilizar para acceder a <span class=\"purple bold-400\"> Por Siempre. </span> Debe tener 8 caracteres alfanuméricos (combinación de números y letras).",
+      "password1": "Nueva contraseña",
+      "password2": "Repite la contraseña",
+      "security": "Contraseña segura"
+    },
+    "title": "Establece tu contraseña"
+  },
+  "redirect": {
+    "terms": "/es/terminos-y-condiciones",
+    "privacy": "/es/aviso-de-privacidad",
+    "login": "/es/iniciar-sesion",
+    "register": "/es/registro",
+    "home": "/es",
+    "faq": "/es/preguntas-frecuentes"
+  },
+  "register": {
+    "gender": {
+      "man": "HOMBRE",
+      "woman": "MUJER"
+    },
+    "step1": {
+      "description": "Ingresa la información solicitada para iniciar tu registro.",
+      "errorMessages": {
+        "matchingEmail": "El correo electrónico ingresado no coincide con la confirmación",
+        "requiredPhone": "Es necesario ingresar al menos un número telefónico"
+      },
+      "labels": {
+        "acceptCheck": "He leído y acepto los",
+        "acceptTerm": "Términos y Condiciones",
+        "acceptPriv": "y Aviso de Privacidad.",
+        "confirmEmail": "Confirmar correo electrónico",
+        "firstName": "Apellido paterno",
+        "genre": "Género",
+        "lastName": "Apellido materno",
+        "login": "Si ya dispones de una cuenta en Por Siempre. ",
+        "loginHref": "<br>Inicia sesión.",
+        "man": "Hombre",
+        "mobile": "Teléfono móvil. <em>10 dígitos</em>",
+        "name": "Nombre",
+        "names": "Nombre (s)",
+        "next": "Siguiente",
+        "phone": "Teléfono fijo. <em>10 dígitos incluyendo lada</em>",
+        "selectGenre": "Selecciona el género",
+        "woman": "Mujer"
+      },
+      "title": "¡Que tus recuerdos perduren por siempre!"
+    },
+    "step2": {
+      "labels": {
+        "message1": "Revisa el <span class=\"bold-400\">correo electrónico</span> que proporcionaste y activa tu cuenta para que puedas disfrutar de los beneficios de Por Siempre.",
+        "message2": "Esta liga quedará inactiva en poco tiempo por lo que te recomendamos activar tu cuenta a la brevedad.",
+        "start": "Regresar a Inicio"
+      },
+      "title": "¡Registro exitoso!"
+    }
+  },
+  "recover": {
+    "step1": {
+      "labels": {
+        "continue": "Ingresar",
+        "message": "Ingresa tu correo electrónico para restablecer tu contraseña",
+        "user": "Correo electrónico"
+      },
+      "title": "¿Olvidaste tu contraseña?"
+    },
+    "step2": {
+      "labels": {
+        "message1": "Hemos enviado una liga de acceso segura a:",
+        "message2": "Utilízala para restablecer tu contraseña"
+      },
+      "title": "Revisa tu correo electrónico"
+    }
+  },
+  "restore": {
+    "labels": {
+      "confirmPass": "Confirmar Contraseña",
+      "finish": "Finalizar",
+      "message": "Ingresa la contraseña que desea utilizar para acceder a Por Siempre. Debe tener 8 caracteres alfanuméricos (combinación de números y letras).",
+      "newPass": "Nueva Contraseña"
+    },
+    "title": "Establece tu contraseña"
+  },
+  "signup": {
+  },
+  "suggestion": {
+    "labels": {
+      "content": "Contenido de la sugerencia",
+      "title": "Sugerencia",
+      "opinion": "¡Queremos conocer tu opinión!",
+      "question": "Ingresa tu sugerencia aquí...",
+      "errorSuggestion": "Favor de seleccionar una sugerencia",
+      "errorContent": "Favor de capturar el contenido de la sugerencia."
+    }
+  },
+  "survival": {
+    "client": {
+      "title": "Confirmación de supervivencia",
+      "message": "¡Gracias por confirmar que estas bien!"
+    },
+    "witness": {
+      "title": "Proceso de supervivencia",
+      "message": "¡Gracias por responder a nuestra solicitud!"
+    }
+  },
+  "witnesses": {
+    "add": {
+      "title": "Agregar Testigo",
+      "name": "Agregar"
+    },
+    "edit": {
+      "add": "Agregar testigo.",
+      "name": "Editar",
+      "title": "Editar Testigo"
+    },
+    "replace": {
+      "title": "Sustituir Testigo",
+      "subTitle": "Selecciona el contacto de la persona que deseas invitar como testigo, desde el buscador. Si no está en tu lista, agrega uno nuevo.",
+      "name": "Sustituir",
+      "receiver": "Contacto",
+      "search": "Busca entre los contactos existentes",
+      "addWitness": "Agregar nuevo testigo",
+      "requireWitness": "Debes seleccionar por lo menos un contacto como testigo."
+    },
+    "forward": {
+      "title": "Reenviar solicitud",
+      "accept": "Solicitud aceptada",
+      "article": "el",
+      "send": "Solicitud enviada el",
+      "pending": "pendiente de confirmación",
+      "rejected": "Solicitud rechazada,",
+      "recommendation": "te recomendamos que sustituyas a este testigo"
+    },
+    "slider": {
+      "first": {
+        "content": "Elige a tus testigos",
+        "hi": "¡Hola ",
+        "subContent": "Asegúrate que sean tres personas cercanas porque ellos nos confirmarán cuando ya no estés.",
+        "welcome": "!"
+      },
+      "second": {
+        "content": "Tus testigos son clave para que Por Siempre funcione correctamente"
+      },
+      "third": {
+        "content": "Asegúrate de que el testigo tiene una buena relación contigo"
+      },
+      "fourth": {
+        "content": "Selecciona tu periodo de inactividad.",
+        "subContent": "Si algo te sucede, debemos saberlo cuanto antes para que podamos enviar lo que designaste a cada uno de tus contactos, y que tus beneficiarios puedan agilizar el trámite de tu indemnización.",
+        "question": "¿Después de cuánto tiempo de inactividad te gustaría que confirmáramos si te encuentras bien?",
+        "15days": "Después de 15 días de inactividad",
+        "30days": "Después de 30 días de inactividad",
+        "60days": "Después de 60 días de inactividad"
+      }
+    },
+    "labels": {
+      "input": "Buscar contactos"
+    },
+    "errors": {
+      "one": "Solo un testigo ha aceptado tu solicitud"
+    },
+    "title": "Agregar contactos",
+    "subtitles": {
+      "pending": "Solicitudes pendientes de confirmar",
+      "rejected": "Solicitudes rechazadas",
+      "success": "Testigos",
+      "witness": "Testigo",
+      "unsigned": "Testigos sin registrar"
+    },
+    "confirmWitness": {
+      "acept": {
+        "title": "Acepto",
+        "message": "¡Gracias por aceptar la petición!"
+      },
+      "fail": {
+        "title": "No Acepto ser testigo",
+        "message": "Petición no aceptada"
+      }
+    }
+  }
+}

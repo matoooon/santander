@@ -1,0 +1,32 @@
+{
+  "json": {
+    "estatus" : "PENDIENTE_DE_VALIDACION",
+    "cuentaMultiasistencia" : {
+      "cuenta" : {
+        "correoElectronico" : "gNVkgfrPbX",
+        "fechaRegistro" : 1447976290515,
+        "fechaUltimoAcceso" : 1447976290512,
+        "tipoCuenta" : "CUENTA_CLIENTE",
+        "numeroAccesos" : -323479099,
+        "numeroIntentosFallidos" : 1282885177,
+        "id" : "oqxtVT6wQ7"
+      },
+      "nombre" : "HEj8MO16o6",
+      "apellidoPaterno" : "M8A9vyCK40",
+      "apellidoMaterno" : "8_Use1K_5n",
+      "codigoBancomer" : "6Q4z1c8mu2",
+      "puesto" : "COORDINADOR",
+      "perfil" : "SUPERVISOR",
+      "estatusCuenta" : "INACTIVA",
+      "id" : "Cvvsa49wRm"
+    },
+    "fechaEnvioRevision" : 1447976290518,
+    "fechaModificacion" : 1447976290517,
+    "fechaCreacion" : 1447976290498,
+    "fechaRevision" : 1447976290496,
+    "totalDocumentosCorrectos" : 10,
+    "totalDocumentosRechazados" : 11,
+    "id" : "vB6NFKEbJS"
+  },
+  "status": 200
+}

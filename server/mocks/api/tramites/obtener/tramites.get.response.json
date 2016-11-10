@@ -1,0 +1,96 @@
+{
+  "json": [
+    {
+      "idConfiguracion": "dfb56261b089515937ce5033efbf880b",
+      "idTramite": "93bf2439945a0e7ccc1b5962e7a08063",
+      "idProducto": "04e8bf2cb38e98c97949615621f4a107",
+      "nombreProducto": "Seguro de Vida preferente",
+      "documentosAlmacenados": 3,
+      "documentosFaltantes": 0,
+      "descripcion": "Pruebas inbox",
+      "nombreTramite": "Pruebas inbox a",
+      "contieneBeneficiarios": true,
+      "instrucciones": [
+        {
+          "id": "953b3ac8132ab401a952233739e2ff3c",
+          "orden": 1,
+          "instruccion": "Paso 1"
+        },
+        {
+          "id": "10707c0dc643f78c8536f46f9212e987",
+          "orden": 2,
+          "instruccion": "Paso 2"
+        },
+        {
+          "id": "5fb5eae327f6749f55f12fb46d782395",
+          "orden": 3,
+          "instruccion": "Paso 3"
+        }
+      ],
+      "estatusTramite": "ACTIVA"
+    },
+    {
+      "idConfiguracion": "47000478ef7d6f1777c2d0e14d545360",
+      "idTramite": null,
+      "idProducto": "4f80a86da309e67e30787927bc04215c",
+      "nombreProducto": "Muerte Accidental Piloto",
+      "documentosAlmacenados": null,
+      "documentosFaltantes": null,
+      "descripcion": "Muerte Accidental",
+      "nombreTramite": "Muerte Accidental Tramite",
+      "contieneBeneficiarios": true,
+      "instrucciones": [
+        {
+          "id": "bc264b08c283afc704d35a5f2fd0f4c8",
+          "orden": 1,
+          "instruccion": "Siga los pasos siguientes"
+        }
+      ],
+      "estatusTramite": null
+    },
+    {
+      "idConfiguracion": "5371a4ae55328955ea5bdfb152cd9eeb",
+      "idTramite": null,
+      "idProducto": "4c87941a2d9cb00b50b681380f5e380a",
+      "nombreProducto": "Seguro Hipotecario",
+      "documentosAlmacenados": null,
+      "documentosFaltantes": null,
+      "descripcion": "mario",
+      "nombreTramite": "MSA Hipotecario",
+      "contieneBeneficiarios": true,
+      "instrucciones": [
+        {
+          "id": "30bdf3af1f1aba6bc6a5ae863c42558e",
+          "orden": 1,
+          "instruccion": "instrucción 1"
+        }
+      ],
+      "estatusTramite": null
+    },
+    {
+      "idConfiguracion": "b799d8b7445d75afbe7c8b055a2ba8d1",
+      "idTramite": null,
+      "idProducto": "74d78347b6eb019dff4ab084e8fad9e0",
+      "nombreProducto": "prueba destinatarios",
+      "documentosAlmacenados": null,
+      "documentosFaltantes": null,
+      "descripcion": "En esta descripción",
+      "nombreTramite": "Prueba Destinatarios",
+      "contieneBeneficiarios": false,
+      "instrucciones": [
+        {
+          "id": "a9572ecc5f0328e9d4fefdbb9c98690f",
+          "orden": 1,
+          "instruccion": "numero de instruccion 1"
+        },
+        {
+          "id": "e177e5fbb0daa07ea8852ae3da33b22e",
+          "orden": 2,
+          "instruccion": "x"
+        }
+      ],
+      "estatusTramite": null
+    }
+  ],
+  "status": 200
+}

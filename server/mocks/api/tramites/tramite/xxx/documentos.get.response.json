@@ -1,0 +1,109 @@
+{
+  "json": [
+    {
+      "idPersona": "c620450c0dbfd1bd41f50b98bf2a92d3",
+      "configuracionInformacion": [
+        {
+          "configuracionTramite": {
+            "nombreTipoDocumento": "Comprobante de registro",
+            "idTipoDocumento": "xxx",
+            "opcional": false,
+            "imagenTipoDocumento": "tipodocumento/d1125398-909.png",
+            "descripcionTipoDocumento": "Comprobante de registro",
+            "subtituloTipoDocumento": "Comprobante de registro",
+            "idTipoReqTramitePersona": "974966f8dd242ecf780da993268539f1"
+          },
+          "infoTramite": {
+            "idInfoTramite": "xxx",
+            "revisionDoc": {
+              "fechaVigencia": null,
+              "estatus": "COMPLETO",
+              "observaciones": null,
+              "motivoRechazo": null,
+              "fechaDictaminacion": 1448582839000,
+              "cuentaMultiasistencia": null,
+              "id": "dc52ae37b72ade1f33e749bc432255af"
+            }
+          }
+        },
+        {
+          "configuracionTramite": {
+            "nombreTipoDocumento": "Historial clinico",
+            "idTipoDocumento": "xxx",
+            "opcional": false,
+            "imagenTipoDocumento": "tipodocumento/898d22b8-d85.png",
+            "descripcionTipoDocumento": "Historial clinico",
+            "subtituloTipoDocumento": "Resumen de historial clinico",
+            "idTipoReqTramitePersona": "1c56cb7d632d2be1494fe808853b7fa6"
+          },
+          "infoTramite": {
+            "idInfoTramite": "xxx",
+            "revisionDoc": {
+              "fechaVigencia": null,
+              "estatus": "PENDIENTE_DE_VALIDACION",
+              "observaciones": null,
+              "motivoRechazo": null,
+              "fechaDictaminacion": 1448582839000,
+              "cuentaMultiasistencia": null,
+              "id": "dc52ae37b72ade1f33e749bc432255af"
+            }
+          }
+        }
+      ],
+      "nombre": "JONATHAN GUANDULAIN RODRIGUEZ"
+    },
+    {
+      "idPersona": "98d3dbcdaf8050374eddfa3cc67baf7e",
+      "configuracionInformacion": [
+        {
+          "configuracionTramite": {
+            "nombreTipoDocumento": "Comprobante de registro",
+            "idTipoDocumento": "xxx",
+            "opcional": false,
+            "imagenTipoDocumento": "tipodocumento/d1125398-909.png",
+            "descripcionTipoDocumento": "Comprobante de registro",
+            "subtituloTipoDocumento": "Comprobante de registro",
+            "idTipoReqTramitePersona": "974966f8dd242ecf780da993268539f1"
+          },
+          "infoTramite": {
+            "idInfoTramite": "xxx",
+            "revisionDoc": {
+              "fechaVigencia": null,
+              "estatus": "COMPLETO",
+              "observaciones": null,
+              "motivoRechazo": null,
+              "fechaDictaminacion": 1448582844000,
+              "cuentaMultiasistencia": null,
+              "id": "883c75fc8ea5e3e79e892f26564cde1b"
+            }
+          }
+        },
+        {
+          "configuracionTramite": {
+            "nombreTipoDocumento": "Historial clinico",
+            "idTipoDocumento": "xxx",
+            "opcional": false,
+            "imagenTipoDocumento": "tipodocumento/898d22b8-d85.png",
+            "descripcionTipoDocumento": "Historial clinico",
+            "subtituloTipoDocumento": "Resumen de historial clinico",
+            "idTipoReqTramitePersona": "1c56cb7d632d2be1494fe808853b7fa6"
+          },
+          "infoTramite": {
+            "idInfoTramite": "xxx",
+            "revisionDoc": {
+              "fechaVigencia": null,
+              "estatus": "PENDIENTE_DE_VALIDACION",
+              "observaciones": null,
+              "motivoRechazo": null,
+              "fechaDictaminacion": 1448582844000,
+              "cuentaMultiasistencia": null,
+              "id": "883c75fc8ea5e3e79e892f26564cde1b"
+            }
+          }
+        }
+      ],
+      "nombre": "MARTHA DANIELA LOPEZ GOMEZ"
+    }
+  ],
+  "status": 200
+}

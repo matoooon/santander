@@ -1,0 +1,19 @@
+.home {
+  .panel {
+    margin: auto;
+    min-height: 400px;
+    .filters {
+      background: #ccc;
+      .segment, .product {
+        ul {
+          list-style: none;
+          li {
+            border-left: 3px solid aqua;
+            margin: 7px 0;
+            padding-left: 8px;
+          }
+        }
+      }
+    }
+  }
+}

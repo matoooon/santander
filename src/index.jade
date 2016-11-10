@@ -1,0 +1,30 @@
+doctype html
+html(ng-app="app")
+  head
+    title Demo title
+    meta(charset="utf-8")
+    meta(http-equiv="X-UA-Compatible" content="IE=edge,chrome=1")
+    meta(name="description" content="Demo project")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    // build:css styles/main.css
+    // bower:css
+    // endbower
+    link(href="./styles/main.css" rel="stylesheet")
+    // endbuild
+  body(ng-cloak)
+    include app/global/header
+    div(
+        ng-cloak
+        ng-view
+      )
+  // build:js js/public.min.js
+  // bower:js
+  // endbower
+  script(src="./js/modules/app.js")
+  script(src="./js/modules/app.commons.js")
+  script(src="./js/modules/app.constants.js")
+  script(src="./js/modules/app.directives.js")
+  script(src="./js/modules/app.routes.js")
+  script(src="./js/modules/app.filters.js")
+  script(src="./js/modules/app.services.js")
+  script(src="./js/providers/route-helper.js")

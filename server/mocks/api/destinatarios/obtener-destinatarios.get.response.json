@@ -1,0 +1,54 @@
+{
+  "json": {
+    "destinatariosCliente": [
+      {
+        "destinatarioCanonical": {
+          "id": "dea59c0c11e14e4d2410e6179adda6db",
+          "nombre": "Mario",
+          "apellidoPaterno": "perez",
+          "apellidoMaterno": "perez",
+          "telefonoFijo": null,
+          "telefonoMovil": "1234567890",
+          "correoElectronico": "mario.perez.adesis@gmail.com",
+          "esTestigo": true
+        },
+        "nombresBeneficiario": [
+          "FRANCISCO JAVIER TORAL TUN",
+          "LIZETTE RODRIGUEZ GALLO"
+        ],
+        "productoBeneficiario": [
+          {
+            "nombreBeneficiario": "FRANCISCO JAVIER TORAL TUN",
+            "nombreProducto": "Seguro de Vida preferente"
+          },
+          {
+            "nombreBeneficiario": "LIZETTE RODRIGUEZ GALLO",
+            "nombreProducto": "Seguro de Vida preferente"
+          }
+        ]
+      },
+      {
+        "destinatarioCanonical": {
+          "id": "be28d587a1da972283a65d2b26ceea53",
+          "nombre": "dasd",
+          "apellidoPaterno": "dasda",
+          "apellidoMaterno": "dasda",
+          "telefonoFijo": null,
+          "telefonoMovil": "1234567890",
+          "correoElectronico": "luis.juarez.adesis@gmail.com",
+          "esTestigo": true
+        },
+        "nombresBeneficiario": [
+          "VIANNEY TAPIA GARCIA"
+        ],
+        "productoBeneficiario": [
+          {
+            "nombreBeneficiario": "VIANNEY TAPIA GARCIA",
+            "nombreProducto": "Seguro de Vida preferente"
+          }
+        ]
+      }
+    ]
+  },
+  "status": 200
+}

@@ -1,0 +1,93 @@
+{
+    "json": {
+        "archivos": [
+            {
+                "id": "ywMZyppQCP",
+                "nombre": "26GWRAHHFH"
+            },
+            {
+                "id": "oMi_1FMlMT",
+                "nombre": "WhbocpdigA"
+            },
+            {
+                "id": "NuJFRKkoJS",
+                "nombre": "nF6mR3Z5FJ"
+            },
+            {
+                "id": "k5KPX_o7aj",
+                "nombre": "hWoqltZxOr"
+            },
+            {
+                "id": "w7QegPLpvv",
+                "nombre": "YbXC3GF2A_"
+            }
+        ],
+        "carpetas": [
+            {
+                "id": "mdF2BzuFwH",
+                "nombre": "BRX23KPyVV"
+            },
+            {
+                "id": "Lik5MCU2Xc",
+                "nombre": "3nthd40_qg"
+            },
+            {
+                "id": "nCFE10MNN1",
+                "nombre": "BP1cYo2awl"
+            },
+            {
+                "id": "c2gLQKoxdH",
+                "nombre": "KK3kwrD0xw"
+            },
+            {
+                "id": "bchV7M9R81",
+                "nombre": "umpkVEcJ4I"
+            }
+        ],
+        "mensajes": [
+            {
+                "id": "c3R3iAoLdH",
+                "nombre": "xFe4ur7fsQ"
+            },
+            {
+                "id": "aLAb7c0N_l",
+                "nombre": "0kzQsdvWYy"
+            },
+            {
+                "id": "VRxTHFHQhR",
+                "nombre": "xUIkynS7WN"
+            },
+            {
+                "id": "cka8UvSgYC",
+                "nombre": "8kIAG2YxjA"
+            },
+            {
+                "id": "YaXQK9pq5F",
+                "nombre": "M4KehdKEHi"
+            }
+        ],
+        "tramites": [
+            {
+                "idTramite": "u44CRrDQrO",
+                "nombreProducto": "GvrOlptrf2"
+            },
+            {
+                "idTramite": "5paabHj405",
+                "nombreProducto": "ZlNg6erNGn"
+            },
+            {
+                "idTramite": "piIY3zN6Ji",
+                "nombreProducto": "z9M9CPuuY_"
+            },
+            {
+                "idTramite": "r0Chg_W9FP",
+                "nombreProducto": "vjuIaKyqr8"
+            },
+            {
+                "idTramite": "YH9XwSVsco",
+                "nombreProducto": "gaVFLNQcxu"
+            }
+        ]
+    },
+    "status": 200
+}

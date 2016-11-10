@@ -1,0 +1,129 @@
+{
+  "json": [
+    {
+      "beneficiarios": [
+        {
+          "nombre": "MONICA MONTSERRAT",
+          "apellidoPaterno": "PEREZ",
+          "apellidoMaterno": "CUAPIO",
+          "numeroBeneficiario": 976,
+          "estatusBeneficiario": "ACTIVO",
+          "tipoBeneficiario": 1,
+          "codigoParentesco": null,
+          "fechaIngreso": "2015/06/16 00:00:00",
+          "fechaNacimiento": "1991/03/02 00:00:00",
+          "id": "2860d2c42ed4fd7145953828c51a74b2"
+        },
+        {
+          "nombre": "MONICA MONTSERRAT",
+          "apellidoPaterno": "PEREZ",
+          "apellidoMaterno": "CUAPIO",
+          "numeroBeneficiario": 976,
+          "estatusBeneficiario": "ACTIVO",
+          "tipoBeneficiario": 1,
+          "codigoParentesco": null,
+          "fechaIngreso": "2015/06/16 00:00:00",
+          "fechaNacimiento": "1991/03/02 00:00:00",
+          "id": "2860d2c42ed4fd7145953828c51a74b2"
+        }
+      ],
+      "tramite": {
+        "poliza": {
+          "fechaVencimiento": "2018/02/02 00:00:00",
+          "producto": {
+            "nombre": "Seguro de Vida preferente",
+            "codigoProducto": "VIDA01",
+            "fechaCreacion": "2015/01/01 00:00:00",
+            "fechaModificacion": null,
+            "id": "04e8bf2cb38e98c97949615621f4a107"
+          },
+          "tipoSeguro": "COLECTIVA",
+          "numeroPoliza": "10096",
+          "fechaNacimientoTitular": "1987/12/30 00:00:00",
+          "tipoServicioEnum": "COLECTIVA",
+          "numeroCertificado": 2,
+          "id": "9014e4a052f94fd5390829c486c7eaad"
+        },
+        "estatus": "PENDIENTE_DE_VALIDACION",
+        "totalDocumentoTramite": 3,
+        "totalDocumentosAlmacenados": 3,
+        "fechaCreacion": "2015/12/07 10:32:20",
+        "fechaModificacion": "2015/12/10 13:30:26",
+        "id": "146ab871b72909eb3efdbddf23237bca"
+      },
+      "titular": {
+        "telefonoMovil": null,
+        "codigoClipert": null,
+        "nombre": "EDGAR ESAUL",
+        "apellidoPaterno": "GOMEZ",
+        "apellidoMaterno": "VILLALOBOS",
+        "telefonoFijo": null,
+        "fechaNacimiento": "1987/12/30 00:00:00",
+        "id": "cd2248daba05ac04dffb9b3eb738105d"
+      }
+    },
+    {
+      "beneficiarios": [
+        {
+          "nombre": "MONICA MONTSERRAT",
+          "apellidoPaterno": "PEREZ",
+          "apellidoMaterno": "CUAPIO",
+          "numeroBeneficiario": 976,
+          "estatusBeneficiario": "ACTIVO",
+          "tipoBeneficiario": 1,
+          "codigoParentesco": null,
+          "fechaIngreso": "2015/06/16 00:00:00",
+          "fechaNacimiento": "1991/03/02 00:00:00",
+          "id": "2860d2c42ed4fd7145953828c51a74b2"
+        },
+        {
+          "nombre": "MONICA MONTSERRAT",
+          "apellidoPaterno": "PEREZ",
+          "apellidoMaterno": "CUAPIO",
+          "numeroBeneficiario": 976,
+          "estatusBeneficiario": "ACTIVO",
+          "tipoBeneficiario": 1,
+          "codigoParentesco": null,
+          "fechaIngreso": "2015/06/16 00:00:00",
+          "fechaNacimiento": "1991/03/02 00:00:00",
+          "id": "2860d2c42ed4fd7145953828c51a74b2"
+        }
+      ],
+      "tramite": {
+        "poliza": {
+          "fechaVencimiento": "2018/02/02 00:00:00",
+          "producto": {
+            "nombre": "Seguro de Vida preferente",
+            "codigoProducto": "VIDA01",
+            "fechaCreacion": "2015/01/01 00:00:00",
+            "fechaModificacion": null,
+            "id": "04e8bf2cb38e98c97949615621f4a107"
+          },
+          "tipoSeguro": "COLECTIVA",
+          "numeroPoliza": "10096",
+          "fechaNacimientoTitular": "1987/12/30 00:00:00",
+          "tipoServicioEnum": "COLECTIVA",
+          "numeroCertificado": 2,
+          "id": "9014e4a052f94fd5390829c486c7eaad"
+        },
+        "estatus": "PENDIENTE_DE_VALIDACION",
+        "totalDocumentoTramite": 3,
+        "totalDocumentosAlmacenados": 3,
+        "fechaCreacion": "2015/12/07 10:32:20",
+        "fechaModificacion": "2015/12/10 13:30:26",
+        "id": "146ab871b72909eb3efdbddf23237bca"
+      },
+      "titular": {
+        "telefonoMovil": null,
+        "codigoClipert": null,
+        "nombre": "EDGAR ESAUL",
+        "apellidoPaterno": "GOMEZ",
+        "apellidoMaterno": "VILLALOBOS",
+        "telefonoFijo": null,
+        "fechaNacimiento": "1987/12/30 00:00:00",
+        "id": "cd2248daba05ac04dffb9b3eb738105d"
+      }
+    }
+  ],
+  "status": 200
+}

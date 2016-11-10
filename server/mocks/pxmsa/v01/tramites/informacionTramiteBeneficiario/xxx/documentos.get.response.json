@@ -1,0 +1,325 @@
+{
+  "json": [
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "1",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "pdf",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "2",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "pdf",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "3",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "doc",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "4",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "doc",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "5",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "png",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "6",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "jpg",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "7",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "jpg",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "8",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "jpg",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "9",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "pdf",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    },
+    {
+      "id": "rk0WQk4zpW",
+      "documento": {
+        "id": "10",
+        "nombreArchivo": "tAwGzAMckt",
+        "detalleDocumento": {
+          "id": "S4XTyCbTAs",
+          "extension": "doc",
+          "tamanio": "7SvOTMXgBl",
+          "fechaCreacion": 1448305243363,
+          "fechaModificacion": 1448305243361,
+          "instruccionCliente": "6AN9Csp3J9",
+          "tipoDocumento": {
+            "id": "vlUv4FVExD",
+            "fechaModificacion": 1448305243359,
+            "nombreTipoDocumento": "qsWMej76Dq",
+            "subtitulo": "tzPc3F9FgG",
+            "descripcion": "QZxupdpIv8",
+            "pathArchivoImagen": "8G6WqTr9fx"
+          },
+          "numeroDestinatariosAsociados": 2089686619,
+          "numeroTramitesAsociados": -1924451626
+        },
+        "tipoArchivo": "ARCHIVO",
+        "documentoPadre": {
+          "id": "91b7BXLV1X"
+        },
+        "claveArchivoFisico": "PIo9XzRbk4",
+        "bloqueArchivoFisico": "lN3b4vF2WV"
+      },
+      "fechaUltimaModificacion": 1448305243346
+    }
+  ],
+  "status": 200
+}

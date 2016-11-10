@@ -1,0 +1,23 @@
+{
+  "authors": [
+    "GFT Mexico"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "pym.js": "^0.4.5",
+    "angular-route": "^1.5.8",
+    "script.js": "~2.5.7"
+  },
+  "description": "Frontend para checkbox",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "license": "MIT",
+  "main": "index.html",
+  "name": "Neo-Jupiter",
+  "private": true,
+  "version": "0.0.0"
+}

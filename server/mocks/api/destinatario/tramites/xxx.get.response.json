@@ -1,0 +1,245 @@
+{
+  "json": {
+    "nombreTramite": "8TTOWdj7MG",
+    "detalleTramite": [
+      {
+        "configuracionInformacion": [
+          {
+            "configuracionTramite": {
+              "idTipoDocumento": "WYZ_e5G_MZ",
+              "nombreTipoDocumento": "OXVg4ZTtU4",
+              "imagenTipoDocumento": "AblMvUcAXW",
+              "descripcionTipoDocumento": "UuAA6KRis4",
+              "subtituloTipoDocumento": "0TxuqYlzHt",
+              "idTipoReqTramitePersona": "CdKCc9QBrK",
+              "opcional": true
+            },
+            "infoTramite": {
+              "idInfoTramite": "bA0xyhHMPC",
+              "revisionDoc": {
+                "id": "6jXvrLcKdq",
+                "motivoRechazo": {
+                  "id": "RM_ZVoK_y2",
+                  "nombreMotivoRechazo": "tQoVHwWhqC",
+                  "fechaModificacion": 1452195714107,
+                  "fechaCreacion": 1452195714108
+                },
+                "observaciones": "BBzYV1yuWm",
+                "estatus": "ACTIVA",
+                "cuentaMultiasistencia": {
+                  "id": "b7cMbRMHPx",
+                  "nombre": "2mkL0vXUoz",
+                  "cuenta": {
+                    "id": "vYUEF9m_9l",
+                    "correoElectronico": "lvW98gzPoq",
+                    "fechaRegistro": 1452195714118,
+                    "fechaUltimoAcceso": 1452195714117,
+                    "tipoCuenta": "CUENTA_DESTINATARIO",
+                    "numeroAccesos": -1497795590,
+                    "numeroIntentosFallidos": 1186023311
+                  },
+                  "apellidoPaterno": "YlOWdj86II",
+                  "apellidoMaterno": "0pTHCRqtfF",
+                  "codigoBancomer": "XxRs2TIYd9",
+                  "puesto": "SUB_DIRECTOR_DE_AREA",
+                  "perfil": "SUPERUSUARIO",
+                  "estatusCuenta": "INACTIVA"
+                },
+                "fechaVigencia": 1452195714102,
+                "fechaDictaminacion": 1452195714101
+              }
+            }
+          },
+          {
+            "configuracionTramite": {
+              "idTipoDocumento": "E95Yogtblc",
+              "nombreTipoDocumento": "LpFQMZpQaG",
+              "imagenTipoDocumento": "6utsjFwHbr",
+              "descripcionTipoDocumento": "tMHkxqiHgA",
+              "subtituloTipoDocumento": "8vdqV6i_ut",
+              "idTipoReqTramitePersona": "kVCgCBIW2B",
+              "opcional": true
+            },
+            "infoTramite": {
+              "idInfoTramite": "em0BI5ioFu",
+              "revisionDoc": {
+                "id": "dN3H1WRbzg",
+                "motivoRechazo": {
+                  "id": "n6GqLkiFPq",
+                  "nombreMotivoRechazo": "cRIK7Olcyj",
+                  "fechaModificacion": 1452195714124,
+                  "fechaCreacion": 1452195714125
+                },
+                "observaciones": "mBq7AMLmhE",
+                "estatus": "DOCUMENTACION_NO_VALIDA",
+                "cuentaMultiasistencia": {
+                  "id": "tbNiy5mxtP",
+                  "nombre": "Xi1OqqLtyV",
+                  "cuenta": {
+                    "id": "7XVJCSCzyL",
+                    "correoElectronico": "EVIiOh4ttq",
+                    "fechaRegistro": 1452195714128,
+                    "fechaUltimoAcceso": 1452195714127,
+                    "tipoCuenta": "CUENTA_CLIENTE",
+                    "numeroAccesos": -237318945,
+                    "numeroIntentosFallidos": -1945891459
+                  },
+                  "apellidoPaterno": "h9UC4b28B2",
+                  "apellidoMaterno": "dPgJSkgfei",
+                  "codigoBancomer": "OtWYEBhryW",
+                  "puesto": "SUB_DIRECTOR_DE_AREA",
+                  "perfil": "SUPERUSUARIO",
+                  "estatusCuenta": "INACTIVA"
+                },
+                "fechaVigencia": 1452195714123,
+                "fechaDictaminacion": 1452195714123
+              }
+            }
+          },
+          {
+            "configuracionTramite": {
+              "idTipoDocumento": "s4BS8zo5ou",
+              "nombreTipoDocumento": "cvv2qQzJS2",
+              "imagenTipoDocumento": "OUvlPHc3V6",
+              "descripcionTipoDocumento": "8oTDphOYIm",
+              "subtituloTipoDocumento": "HWvnFRq1Al",
+              "idTipoReqTramitePersona": "OL16aOhnI4",
+              "opcional": true
+            },
+            "infoTramite": {
+              "idInfoTramite": "oIlugJzh7P",
+              "revisionDoc": {
+                "id": "dxSOzcmAgI",
+                "motivoRechazo": {
+                  "id": "jbucN6sORc",
+                  "nombreMotivoRechazo": "NDTNulHGpy",
+                  "fechaModificacion": 1452195714135,
+                  "fechaCreacion": 1452195714136
+                },
+                "observaciones": "ZqRI2ftczw",
+                "estatus": "COMPLETO",
+                "cuentaMultiasistencia": {
+                  "id": "Lfsxl9grul",
+                  "nombre": "pLjMwtKp7f",
+                  "cuenta": {
+                    "id": "WuRzBdrgQD",
+                    "correoElectronico": "y73qddHMZv",
+                    "fechaRegistro": 1452195714140,
+                    "fechaUltimoAcceso": 1452195714139,
+                    "tipoCuenta": "CUENTA_MULTIASISTENCIA",
+                    "numeroAccesos": -1605229400,
+                    "numeroIntentosFallidos": 1499386152
+                  },
+                  "apellidoPaterno": "nJUbR10fuJ",
+                  "apellidoMaterno": "ZCuFj4l3jG",
+                  "codigoBancomer": "F8vfRPY2Ri",
+                  "puesto": "COORDINADOR",
+                  "perfil": "SUPERUSUARIO",
+                  "estatusCuenta": "ACTIVA"
+                },
+                "fechaVigencia": 1452195714134,
+                "fechaDictaminacion": 1452195714134
+              }
+            }
+          },
+          {
+            "configuracionTramite": {
+              "idTipoDocumento": "2uMGTp1L6Z",
+              "nombreTipoDocumento": "zP4HW5FPZ9",
+              "imagenTipoDocumento": "1aoBPdfvHj",
+              "descripcionTipoDocumento": "tuRLd4YRQg",
+              "subtituloTipoDocumento": "Xo0OABr3Yo",
+              "idTipoReqTramitePersona": "P2oYIY4wGl",
+              "opcional": true
+            },
+            "infoTramite": {
+              "idInfoTramite": "N7RA5ieuGc",
+              "revisionDoc": {
+                "id": "tNBeXacTCW",
+                "motivoRechazo": {
+                  "id": "JeB59jfxGh",
+                  "nombreMotivoRechazo": "aVglUQmZhN",
+                  "fechaModificacion": 1452195714146,
+                  "fechaCreacion": 1452195714146
+                },
+                "observaciones": "ActhyvMpEE",
+                "estatus": "ACTIVA",
+                "cuentaMultiasistencia": {
+                  "id": "7fuubYyNcx",
+                  "nombre": "8b2V2Cu4Xd",
+                  "cuenta": {
+                    "id": "gDx1ZWbYhi",
+                    "correoElectronico": "UduSEDuFCK",
+                    "fechaRegistro": 1452195714150,
+                    "fechaUltimoAcceso": 1452195714149,
+                    "tipoCuenta": "CUENTA_CLIENTE",
+                    "numeroAccesos": -1692848102,
+                    "numeroIntentosFallidos": 444637464
+                  },
+                  "apellidoPaterno": "LqqYYEPj6P",
+                  "apellidoMaterno": "GmldjeiYvL",
+                  "codigoBancomer": "M22_4FAd9O",
+                  "puesto": "COORDINADOR",
+                  "perfil": "SUPERVISOR",
+                  "estatusCuenta": "INACTIVA"
+                },
+                "fechaVigencia": 1452195714145,
+                "fechaDictaminacion": 1452195714144
+              }
+            }
+          },
+          {
+            "configuracionTramite": {
+              "idTipoDocumento": "V9pUjUzWvW",
+              "nombreTipoDocumento": "ec5UnZdmBR",
+              "imagenTipoDocumento": "FJcps8XYe5",
+              "descripcionTipoDocumento": "kE5tEmkuoR",
+              "subtituloTipoDocumento": "WDJoBIuS7d",
+              "idTipoReqTramitePersona": "UoYavZbT2d",
+              "opcional": true
+            },
+            "infoTramite": {
+              "idInfoTramite": "P6KyPLt6zR",
+              "revisionDoc": {
+                "id": "rLgUD0vs_z",
+                "motivoRechazo": {
+                  "id": "9FUdBxrUvz",
+                  "nombreMotivoRechazo": "ou3ag7Y0ZI",
+                  "fechaModificacion": 1452195714157,
+                  "fechaCreacion": 1452195714158
+                },
+                "observaciones": "Cqcv39GsBr",
+                "estatus": "ACTIVA",
+                "cuentaMultiasistencia": {
+                  "id": "Mc5k9pbsaC",
+                  "nombre": "5FRUj1B3HI",
+                  "cuenta": {
+                    "id": "Qmt7h0GZE3",
+                    "correoElectronico": "6dMO9DyKFs",
+                    "fechaRegistro": 1452195714162,
+                    "fechaUltimoAcceso": 1452195714162,
+                    "tipoCuenta": "CUENTA_MULTIASISTENCIA",
+                    "numeroAccesos": -1626652163,
+                    "numeroIntentosFallidos": -1766589885
+                  },
+                  "apellidoPaterno": "h7eZrwht6i",
+                  "apellidoMaterno": "asT5Exh8Lf",
+                  "codigoBancomer": "ftHDK3vAzv",
+                  "puesto": "ANALISTA",
+                  "perfil": "SUPERVISOR",
+                  "estatusCuenta": "ACTIVA"
+                },
+                "fechaVigencia": 1452195714155,
+                "fechaDictaminacion": 1452195714155
+              }
+            }
+          }
+        ],
+        "nombre": "3MiyE0CaoY",
+        "idPersona": "G9yHUqBuXY",
+        "titular": true
+      }
+    ]
+  },
+  "status": 200
+}

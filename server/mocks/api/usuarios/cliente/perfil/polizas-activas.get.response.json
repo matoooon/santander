@@ -1,0 +1,37 @@
+{
+  "json": [
+    {
+      "id": "xxx",
+      "fechaVencimiento": "2018/02/02 00:00:00",
+      "producto": {
+        "id": "xxx",
+        "nombre": "Seguro de Vida preferente",
+        "codigoProducto": "VIDA01",
+        "fechaCreacion": "2016/05/09 12:44:05",
+        "fechaModificacion": "2016/05/09 13:35:25"
+      },
+      "numeroPoliza": "10030",
+      "numeroCertificado": 1,
+      "fechaNacimientoTitular": "1979/05/09 00:00:00",
+      "tipoSeguro": "INDIVIDUAL",
+      "tipoServicioEnum": "INDIVIDUAL"
+    },
+    {
+      "id": "xxx",
+      "fechaVencimiento": "2018/02/02 00:00:00",
+      "producto": {
+        "id": "fbea9ce7ca4b151b80b00389208b7850",
+        "nombre": "Familia Segura Bancomer",
+        "codigoProducto": "4025007",
+        "fechaCreacion": "2016/05/09 12:44:59",
+        "fechaModificacion": null
+      },
+      "numeroPoliza": "100101",
+      "numeroCertificado": 2,
+      "fechaNacimientoTitular": "2000/01/01 00:00:00",
+      "tipoSeguro": "COLECTIVA",
+      "tipoServicioEnum": "COLECTIVA"
+    }
+  ],
+  "status": 200
+}

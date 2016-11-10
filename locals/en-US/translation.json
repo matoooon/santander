@@ -1,0 +1,1051 @@
+{
+  "langCode": "en-US",
+  "activate": {
+    "choose": {
+      "labels": {
+        "insuranceCustomer": "I already own a Bancomer life insurance product",
+        "membershipCustomer": "I hired the service over the phone",
+        "newCustomer": "I’m a new user",
+        "premiumService": "Free Por Siempre service"
+      },
+      "title": "Choose one of the following options"
+    },
+    "insurance": {
+      "alert": {
+        "warning": {
+          "title": "We couldn’t find any products linked to the provided information.",
+          "label1": "Please, check the information you provided and send it again. Need help?",
+          "label2": "Call us at 01 800 SIEMPRE (01 800 743 6773)"
+        },
+        "success":{
+          "title": "The insurance policy linked to your information is:",
+          "label2": "Beneficiaries "
+        }
+      },
+      "labels": {
+        "birthday": "Policy holder’s birth date",
+        "enterprise": "Group Policy",
+        "individual": "Individual policy",
+        "errorMessage": "The policy number must contain up to 20 digits only",
+        "message": "If you can’t remember your policy number call us at ",
+        "phone": "01 800 SIEMPRE (743 6773)",
+        "poliza": "Policy number",
+        "credit": "Certificate or credit number"
+      },
+      "title": "Enter the type of your policy",
+      "titleSuccess": "Welcome to Por Siempre!"
+    },
+    "main": {
+      "errorMessages": {
+        "invalidCurp": "Check the CURP you provided"
+      },
+      "labels": {
+        "checkCurp": "Look up your CURP",
+        "choosePass": "Choose your password",
+        "curp": "CURP",
+        "insurance": "What insurance company does your product belong to?",
+        "message": "Enter the password you want to use to access <span class=\"purple bond-400\">Por Siempre</span>. It must contain 8 alphanumeric characters (a combination of numbers and letters).",
+        "passwordIndications": "Enter the password you want to use to access <span class=\"purple bond-400\">Por Siempre</span>. It must contain 8 alphanumeric characters (a combination of numbers and letters).",
+        "select": "Select your insurance company"
+      },
+      "title": "Enter your information"
+    },
+    "membership": {
+      "alert": {
+        "success": {
+          "label1": "Congratulations! You now have access to Por Siempre!"
+        }
+      },
+      "labels": {
+        "birthday": "Policyholder’s birthdate",
+        "membershipNumber": "Membership number"
+      },
+      "error": {
+        "messageMembership": "The membership number must contain 20 digits"
+      },
+      "title": "Enter your membership number",
+      "titleSuccess": "Congratulations! You now have access to Siempre!"
+    }
+  },
+  "bancomer": {
+    "detail": {
+      "addDocument": "Add document",
+      "edit": "Detail / Edit",
+      "instruction": "Instructions",
+      "docReview": "Document checked on ",
+      "noteValidity": "Note: Sent for validation on ",
+      "noteReview": "Note: Estimated response date",
+      "result": "Result:",
+      "docRight": "Correct documents",
+      "docRejecteds": "Rejected documents",
+      "docRejected": "Rejected document",
+      "validityProcedure": "Validate the procedure documentation"
+    },
+    "labels": {
+      "search": "Search procedures",
+      "storedDocuments": "Stored documents",
+      "missingDocuments": "Missing document",
+      "contentSearch": "Currently all the insurance policies are visible in the section: ‘My insurance policies’",
+      "contentOther": "Currently all the insurance policies are visible in the section: ‘Other",
+      "details": {
+        "beneficiary": "Beneficiaries",
+        "document": "Select a document",
+        "merge": "Edit/Add contact",
+        "recipients": "Contacts",
+        "warning": "You haven’t completed the information of this beneficiary"
+      },
+      "polize": "Policy number",
+      "polizeTitle": "New procedure - Enter your policy number",
+      "polizeFound": "We found your insurance policy",
+      "activeService": "Activate Service",
+      "tooltip": {
+        "approved": "Approved",
+        "hide": "Move procedure to ‘Others’",
+        "show": "Move procedure to ‘My insurance policies’",
+        "reload": "Update beneficiaries"
+      }
+    },
+    "modal": {
+      "title": "Write your policy number to start the procedure.",
+      "instructions": "If you can’t remember your policy number, call us at 01 800 SIEMPRE (01 800 743 6773)",
+      "available": "Preview <br> not available"
+    },
+    "recipients": {
+      "labels": {
+        "title": "Link contact to the Beneficiary",
+        "subTitle": "Beneficiary:",
+        "description": "Select the contact of the person you want to link to the procedure from the search tool. If they are not on your list, add a new contact.",
+        "notify": "Contacts linked to the procedure.",
+        "warning": "You haven’t linked any contacts to this procedure.",
+        "warningDescription": "The contact is who will receive the documentation of this procedure in case the policyholder passes away."
+      }
+    },
+    "taps": {
+      "securedDoc": "Documents of the insured",
+      "docBeneficiary": "Beneficiary’s documents",
+      "active": "My insurance policies",
+      "inactive": "More insurance services"
+    },
+    "instruction": {
+      "title": "Instructions"
+    },
+    "beneficiary": {
+      "labels": {
+        "title": "Contacts"
+      }
+    },
+    "upload": {
+      "note": "Note: ",
+      "subtitle": "Is the document you want to upload one of these?:",
+      "securedDoc": "Documents of the insured: ",
+      "docBeneficiary": "Beneficiary’s document: ",
+      "raised": "Raised on: "
+    }
+  },
+  "blacklist": {
+    "step1": "The e-mail address",
+    "step2": "will stop receiving messages from this service."
+  },
+  "contact": {
+    "ready": "Your message was sent successfully"
+  },
+  "discounts": {
+    "labels": {
+      "coupon": "Coupon valid until ",
+      "detail": "Description",
+      "print": "Print coupon",
+      "show": "Show",
+      "title": "Benefits",
+      "discount": "off.",
+      "empty": "No valid benefits!",
+      "outstanding": "Outstanding"
+    }
+  },
+  "documents": {
+    "insurance": {
+      "bancomer": "Bancomer life insurance",
+      "beneficiary": "Beneficiary:",
+      "family": "Familia Segura",
+      "first": "Policyholder:"
+    },
+    "labels": {
+      "days": "day(s)",
+      "delete": "Delete",
+      "download": "Download",
+      "edit": "Edit / Add contacts",
+      "expired": "Expires:",
+      "folder": "Create a folder",
+      "formality": "Linked procedures",
+      "load": "Uploaded:",
+      "modified": "Modified:",
+      "move": "Move",
+      "name": "Name",
+      "newFolder": "New folder",
+      "noInstructions": "No instructions",
+      "noRecipients": "No linked contacts",
+      "open": "Open",
+      "placeholder": "New folder’s name",
+      "processed": "Procedure",
+      "recipients": "Contacts",
+      "rename": "Rename",
+      "search": "Search documents or folders",
+      "to": "to",
+      "upload": "Upload document"
+    },
+    "modal": {
+      "asesoria": {
+        "placeholder": "Ask us...",
+        "question": "How can we help?",
+        "request": "We will answer you shortly via e-mail.",
+        "subject": "Subject",
+        "title": "Delete personalized help",
+        "typeBusiness": "Type in a subject"
+      },
+      "delete": {
+        "deleteFile": "Do you want to delete this file?",
+        "deleteFolder": "Do you wish to delete the folder",
+        "andFolder": " and all its contents?",
+        "error1": "There are procedures linked to this file or the file is being validated by an operator. Are you sure you want to continue?",
+        "error2": "Are you sure you want to continue?",
+        "success": "The file was successfully deleted.",
+        "title": "delete file"
+      },
+      "edit": {
+        "subTitle1": "Document name",
+        "subTitleFolder": "Folder name",
+        "subTitle2": "Type of document",
+        "title": "Edit name/type of document",
+        "titleFolder": "Edit name"
+      },
+      "move": {
+        "addFolder": "Add folder",
+        "root": "Documents",
+        "title": "Select the new location",
+        "success": "The document changed location successfully to the folder"
+      },
+      "recipients": {
+        "add": "Add contact",
+        "advice": "The contact is the person who will receive the documents and procedures in case the policyholder is no longer around.",
+        "example": "Eg., ‘The original document is in the dining room’s cabinet, in the second drawer",
+        "instructions": "Instructions for the contacts",
+        "optional": "(Optional)",
+        "recipientsMessage": "Contacts added to the document",
+        "recipientsMessageFolder": "Contacts added to the file",
+        "title": "Instructions"
+      },
+      "upload": {
+        "addFiles": "Add files",
+        "allType": "All of this type",
+        "choose": "Select the type of document",
+        "congratulations": "Congratulations!",
+        "error": {
+          "mime": "File extension not supported",
+          "length": "The filename is greater than 100 characters",
+          "name": "The valid characters for the file name are: [a-z, 0-9, . , ' ( ) ¡ = % $ ! _ — - &]",
+          "size": "The file exceeds the allowed size (20 MB)",
+          "fileType": "The file extension is not valid for procedures"
+        },
+        "loading": "Loading...",
+        "notification1": "They are legible",
+        "notification2": "They are color scanned",
+        "notification3": "The documents of two or more pages are grouped in a single file.",
+        "notification4": "Maximum allowed size per file up to 20 MB",
+        "notification5": "Only the following file extensions are allowed: .ai, .bmp, .cdr, .doc, .docx, .dwg, .fla, .gif, .jpeg, .jpg, .mp3, .pdf, .png, .pps, .ppt, .pptx, .ppts, .psd, .pub, .rar, .rtf, .swf, .tgz, .tif, .txt, .wma, .wpd, .wps, .xls, .xlsx, .xml, .zip",
+        "notificationTitle": "Make sure the documents:",
+        "optional": "If you want, you can add one or more contacts.",
+        "recipients": "The contacts will receive the documents when the policyholder is no longer around.",
+        "safeData": "Your documents have been stored successfully.",
+        "title": "Classify your documents"
+      }
+    },
+    "noResults": "There are no matches for your search.",
+    "searchResults": "Search results",
+    "success": "Your request for help has been sent correctly.",
+    "title": "Mortgage loans"
+  },
+  "downloadDocuments": {
+    "labels": {
+      "beneficiary": "Documents of the Beneficiary: ",
+      "document": "Document: ",
+      "documents": "Documents",
+      "download": "Por Siempre allows you to store all your memories and digital assets safely, ensuring their perdurability, access and availability at any time in the coming years, even if the technology changes or you are no longer around.",
+      "enjoy": "Create your account",
+      "folder": "Folder: ",
+      "hi": "Hello ",
+      "insured": "Documents of the insured: ",
+      "instructions": "Instructions",
+      "leaveDocuments": " stored important documents for you to receive in his absence. You can download them within the next 90 days.",
+      "procedure": "Procedure: ",
+      "service": "Por Siempre ",
+      "title": "Appointed documents",
+      "update": "Last updated on: ",
+      "downloadProcedure": "Download stored documents"
+    }
+  },
+  "cron": {
+    "title": "Your session is about to expire.",
+    "subtitle": "Do you want to stay logged in?"
+  },
+  "globals": {
+    "accept": "Continue",
+    "addRecipient": "Add Contact",
+    "addRecipients": "Add Contacts",
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "confirmPass": "Confirm your password",
+    "day": "Day",
+    "delete": "Delete",
+    "email": "E-mail",
+    "enter": "Enter",
+    "finish": "Finish",
+    "forgotPass": "Did you forget your password?",
+    "message": "Message",
+    "month": "Month",
+    "move": "Move",
+    "newPass": "New password",
+    "newAccept": "OK",
+    "next": "Next",
+    "pass": "Password",
+    "phone": "Phone number",
+    "policyNumber": "Policy number",
+    "other": "Other",
+    "save": "Save",
+    "send": "Send",
+    "select": "Select",
+    "ready": "Ready",
+    "year": "Year",
+    "yearHolder": "yyyy",
+    "errorMessages": {
+      "invalidDate": "Complete the date correctly (DD/MM)",
+      "invalidEmail": "The e-mail address you provided is not valid",
+      "invalidEmailConfirmation": "The e-mail addresses provided do not match. Please try again.",
+      "invalidInput": "Please check the information you provided",
+      "invalidPhone": "Phone number must be to 10 digits",
+      "invalidPassword": "You must enter from 6 to 10 alphanumeric characters.",
+      "invalidPasswordConfirmation": "The entered passwords do not match. Please try again.",
+      "invalidPolice": "Incorrect policy number",
+      "requiredField": "This field is mandatory",
+      "selfEmail": "You can’t use your own e-mail address.",
+      "genericError": "Internal error",
+      "errorService": {
+        "ERROR-000": "There was an error in the system, please try again later. In case it happens again please call us at 01 800 743 6773.",
+        "ERROR-0000": "There was an error in the system, please try again later. In case it happens again please call us at 01 800 743 6773.",
+        "ERROR-0001": "There was an error in the system, please try again later. In case it happens again please call us at 01 800 743 6773.",
+        "ERROR-0002": "There was an error creating the data.",
+        "ERROR-0003": "There was an error updating the data.",
+        "ERROR-0004": "There was an error deleting the data.",
+        "ERROR-0005": "This policy number has already been registered.",
+        "ERROR-0006": "Information not found.",
+        "ERROR-0007": "There was an error creating the e-mail template.",
+        "ERROR-0008": "There was an error sending your e-mail.",
+        "ERROR-0009": "There was an error validating the petition object.",
+        "ERROR-0010": "The received ID is null.",
+        "ERROR-0011": "The received entity is null.",
+        "ERROR-0012": "The received entity is null.",
+        "ERROR-0013": "Invalid filter.",
+        "ERROR-0101": "It’s not possible to process this URL because it’s not valid.",
+        "ERROR-0102": "There was an error deleting a Secure Entity URL by hash.",
+        "ERROR-0103": "It’s not possible to process this URL because it’s not current.",
+        "ERROR-0104": "It’s not possible to process this URL because it doesn’t exist.",
+        "ERROR-0105": "There was an error updating a Secure Entity URL.",
+        "ERROR-0106": "There was an error inserting a new record of Secure Entity URL.",
+        "ERROR-0201": "We’re sorry, the entered link is not valid.",
+        "ERROR-0202": "We couldn’t find any products linked to the entered information. Need help? Call us at 01 800 SIEMPRE (743 6773).",
+        "ERROR-0203": "We’re sorry, the policy number you provided is cancelled. If you need information about our products, please call us at 01 800 SIEMPRE (743 6773)",
+        "ERROR-0204": "We’re sorry, your account is cancelled, you will be automatically redirected to the homepage. For further information please call us at 01 800 SIEMPRE (743 6773)",
+        "ERROR-0205": "We’re sorry, your account doesn’t have all the requirements for its activation.",
+        "ERROR-0206": "We’re sorry, the product linked to this policy number linked to this policy number doesn’t exist in Por Siempre.",
+        "ERROR-0207": "We’re sorry, the managing company linked to this product doesn’t exist in Por Siempre.",
+        "ERROR-0208": "We’re sorry, your account doesn’t have the right status to be activated.",
+        "ERROR-0209": "There was a mistake consulting the service to recover the policy information.",
+        "ERROR-0210": "There was more than one result recovering this policy’s information.",
+        "ERROR-0211": "We’re sorry, the policy number you entered doesn’t gather the requirements to complete the activation of the Por Siempre service.",
+        "ERROR-0212": "We’re sorry, the birthdate of the chosen policyholder doesn’t match our records.",
+        "ERROR-0301": "It’s forbidden to change from one insurance company to another.",
+        "ERROR-0405": "Duplicated user.",
+        "ERROR-0406": "Client not found.",
+        "ERROR-500": "There was an error connecting to the service.",
+        "ERROR-501": "Nonexistent client account.",
+        "ERROR-502": "Maximum amount of witnesses reached.",
+        "ERROR-503": "Nonexistent witness.",
+        "ERROR-504": "This witness has already been confirmed.",
+        "ERROR-505": "This contact is already registered. You can enter a new one or add an existing one from your contact list.",
+        "ERROR-506": "Duplicated contact.",
+        "ERROR-507": "The valid period for the Witness’ confirmation hasn’t expired.",
+        "ERROR-601": "Nonexistent contact.",
+        "ERROR-602": "The contact is a Witness.",
+        "ERROR-603": "Nonexistent client account.",
+        "ERROR-604": "This contact is already registered, please capture a new one.",
+        "ERROR-605": "A landline or mobile number is mandatory.",
+        "ERROR-606": "The consignee has linked procedures.",
+        "ERROR-701": "Duplicated Group Beneficiary.",
+        "ERROR-702": "The group benefit is not valid.",
+        "ERROR-703": "It’s not possible to register more than one super-outstanding benefit.",
+        "ERROR-704": "It’s not possible to register more than one super-outstanding benefit.",
+        "ERROR-710": "It’s not possible to register more than one outstanding benefit because there’s already a super-outstanding benefit.",
+        "ERROR-711": "The received entity is null.",
+        "ERROR-712": "The received search criteria is null.",
+        "ERROR-713": "Invalid filter.",
+        "ERROR-801": "Non-existing topic.",
+        "ERROR-802": "You can’t delete the topic because it contains a list of subtopics.",
+        "ERROR-803": "Non-existing topic entity!",
+        "ERROR-821": "Non-existing subtopic entity.",
+        "ERROR-0901": "The provided e-mail address is already registered, please try another one.",
+        "ERROR-1001": "We’re sorry, the user or password are incorrect, please try again.",
+        "ERROR-1002": "We’re sorry, the provided policy number is expired. We suggest you contact your insurance company.",
+        "ERROR-1003": "We’re sorry, the provided policy number is cancelled. For further information about this product call us at 01 800 SIEMPRE (743 6773).",
+        "ERROR-1004": "We’re sorry, this account is no longer active.",
+        "ERROR-1005": "We’re sorry, this account number is not linked to a valid insurance policy.",
+        "ERROR-1006": "We’re sorry, there was an error trying to reset your password",
+        "ERROR-1101": "Invalid document identifier.",
+        "ERROR-1102": "There is another folder with that name, please try a different one.",
+        "ERROR-1103": "There is another document with that name, please try a different one.",
+        "ERROR-1104": "The document is not valid.",
+        "ERROR-1105": "It’s not possible to create the document.",
+        "ERROR-1106": "The destination does not exist.",
+        "ERROR-1107": "Resource linked to other entities.",
+        "ERROR-1108": "Resource not found.",
+        "ERROR-1109": "Client not valid.",
+        "ERROR-1110": "You’ve exceeded the maximum storage limit.",
+        "ERROR-1112": "This procedure has contacts linked to it.",
+        "ERROR-1113": "This procedure has procedures pending approval.",
+        "ERROR-1114": "It’s not possible to delete documents linked to a procedure.",
+        "ERROR-1115": "You’re not allowed to change to change the type of document if there are procedures linked to it.",
+        "ERROR-1300": "There was an error in the entered parameters.",
+        "ERROR-1301": "You don’t have permission to perform this action.",
+        "ERROR-1302": "Invalid entity_ID.",
+        "ERROR-1303": "The inbox record you’re trying to update doesn’t exist in our database.",
+        "ERROR-1304": "It’s not possible to assign/rule the task since it has already been ruled.",
+        "ERROR-1305": "The required conditions to perform this action are not met.",
+        "ERROR-1306": "The information linked to this user was not found in our database.",
+        "ERROR-1307": "It’s not possible rule the task since it hasn’t been assigned.",
+        "ERROR-1308": "We couldn’t run a survival check with your witnesses since the conditions are not met.",
+        "ERROR-1400": "The insurance policy doesn’t meet the conditions to have the right to the Por Siempre service.",
+        "ERROR-1500": "The suggestion type already exists.",
+        "ERROR-1501": "The suggestion type doesn’t exist.",
+        "ERROR-1502": "You can’t delete the ‘Help’ type of suggestion.",
+        "ERROR-1510": "The type of document already exists.",
+        "ERROR-1511": "The type of document doesn’t exist.",
+        "ERROR-1512": "It’s not possible to delete the document since it’s already in use.",
+        "ERROR-1520": "The rejection reason already exists.",
+        "ERROR-1521": "The rejection reason doesn’t exist",
+        "ERROR-1522": "It’s not possible to delete the rejection reason ‘Illegible’.",
+        "ERROR-1530": "The insurance company already exists.",
+        "ERROR-1531": "The insurance company doesn’t exist.",
+        "ERROR-1532": "It’s not possible to delete the insurance company since it contains a list of products.",
+        "ERROR-1601": "Invalid contact information",
+        "ERROR-1602": "Cliente inválido",
+        "ERROR-1603": "Invalid document information",
+        "ERROR-1604": "The document is already linked to the contact",
+        "ERROR-1605": "The folder is already linked to the contact.",
+        "ERROR-1701": "The sending date field is mandatory.",
+        "ERROR-1702": "Invalid client.",
+        "ERROR-1703": "Invalid message template.",
+        "ERROR-1801": "Non-existent procedure settings.",
+        "ERROR-1802": "Duplicated procedure settings name.",
+        "ERROR-1803": "Duplicated procedure settings key.",
+        "ERROR-1804": "Invalid procedure settings, procedure settings for the selected product already exist.",
+        "ERROR-1805": "Invalid procedure settings, at least one instruction is required.",
+        "ERROR-1806": "Invalid procedure settings. The type of document linked is non-existent.",
+        "ERROR-1807": "Invalid procedure settings,there are duplicated types of documents assigned to the Beneficiary/ies.",
+        "ERROR-1808": "Invalid procedure settings, you need to enter at least one type of document for the Beneficiary/ies.",
+        "ERROR-1809": "It’s not possible to delete these procedure settings since it already has procedures linked to it.",
+        "ERROR-1810": "Invalid procedure settings, it’s not allowed to register types of documents that have been assigned to the Beneficiary/ies in procedures that do not accept Beneficiaries",
+        "ERROR-1811": "Invalid procedure settings, there are duplicated types of document assigned to the Policyholder/Insured.",
+        "ERROR-1812": "Invalid procedure settings,at least one type of document must be linked to the Policyholder/Insured.",
+        "ERROR-1813": "Non-existent procedure.",
+        "ERROR-1814": "This insurance company is not considered for the creation of procedures.",
+        "ERROR-1822": "Duplicated procedure settings name.",
+        "ERROR-1833": "Duplicated procedure settings key.",
+        "ERROR-2000": "The status must be REJECTED to be able to update it.",
+        "ERROR-2001": "The documentation is not complete",
+        "ERROR-2002": "Wrong procedure",
+        "ERROR-2003": "Wrong Inbox procedure",
+        "ERROR-2004": "There are documents pending ruling.",
+        "ERROR-2005": "The procedure is not complete yet.",
+        "ERROR-2006": "The procedure must be ongoing a validation period to be able to assign a ruling.",
+        "ERROR-2007": "Invalid reviewal data.",
+        "ERROR-2011": "One or more types of documents have an invalid expiration date.",
+        "ERROR-2108": "There is no information of the Policyholder’s document regarding this procedure.",
+        "ERROR-2109": "Invalid document",
+        "ERROR-2110": "Información trámite titular documento invalido",
+        "ERROR-2111": "There is no information of the Beneficiary’s document regarding this procedure.",
+        "ERROR-2112": "Invalid document",
+        "ERROR-2113": "Información trámite beneficiario documento invalido",
+        "ERROR-2201": "Invalid document",
+        "ERROR-2202": "There is no link between the procedure and the contact.",
+        "ERROR-2203": "The link between the procedure and the contact already exists.",
+        "ERROR-2204": "Invalid procedure settings.",
+        "ERROR-2209": "The contact doesn’t have a correct link to the Insurance policy, the Procedure, or the Policyholder.",
+        "ERROR-2300": "The beneficiary already has a contact linked to it.",
+        "ERROR-2301": "The beneficiary doesn’t exist.",
+        "ERROR-2302": "The contact doesn’t exist",
+        "ERROR-2303": "The link does not exist",
+        "ERROR-2304": "The link already exists",
+        "ERROR-2400": "The product doesn’t exist",
+        "ERROR-2401": "It’s not possible to delete the product since it contains procedure settings.",
+        "ERROR-2500": "There is no information of the Policyholder regarding this procedure",
+        "ERROR-2501": "The procedure doesn’t exist or it’s no longer on the validation stage.",
+        "ERROR-2502": "The type of document required for the Policyholder doesn’t exist.",
+        "ERROR-2503": "The Policyholder does not exist.",
+        "ERROR-2504": "There is no information of the beneficiary regarding this procedure",
+        "ERROR-2505": "The procedure doesn’t exist.",
+        "ERROR-2506": "The type of document required for the Beneficiary doesn’t exist",
+        "ERROR-2507": "The beneficiary does not exist",
+        "ERROR-2508": "There is no information of the document/s of the policyholder regarding this procedure.",
+        "ERROR-2509": "Invalid Document",
+        "ERROR-2510": "Información trámite titular documento invalido",
+        "ERROR-2511": "There is no information of the document/s of the Beneficiary regarding this procedure.",
+        "ERROR-2512": "Invalid Document",
+        "ERROR-2513": "This document is already linked to the procedure.",
+        "ERROR-2514": "Invalid procedure",
+        "ERROR-2515": "There is no link between the procedure and the contact.",
+        "ERROR-2516": "The link between the procedure and the contact already exists.",
+        "ERROR-2517": "Invalid procedure settings.",
+        "ERROR-2518": "Invalid procedure",
+        "ERROR-2519": "Invalid policy",
+        "ERROR-2520": "This insurance company is not considered for creating procedures.",
+        "ERROR-2521": "It’s not possible to update the beneficiaries at this time since the procedure is under reviewal.",
+        "ERROR-2522": "A procedure linked to the same product already exists.",
+        "ERROR-2523": "The selected procedure doesn’t belong to the provided policy number.",
+        "ERROR-2600": "There’s already a contact linked to this beneficiary.",
+        "ERROR-2601": "The beneficiary does not exist",
+        "ERROR-2602": "The contact does not exist",
+        "ERROR-2603": "The link does not exist",
+        "ERROR-2604": "The link already exists",
+        "ERROR-2700": "Invalid procedure",
+        "ERROR-2701": "Invalid contact",
+        "ERROR-2702": "The link does not exist",
+        "ERROR-2703": "The link already exists",
+        "ERROR-2800": "The product does not exist",
+        "ERROR-2801": "It’s not possible to delete the product since it contains procedure settings",
+        "ERROR-FB-001": "Invalid Token.",
+        "ERROR-FB-002": "There was an error creating the file.",
+        "ERROR-FB-003": "There was an error recovering the file.",
+        "ERROR-FB-004": "Error al delete Archivo.",
+        "ERROR-FB-005": "Cient not found.",
+        "ERROR-FB-006": "Invalid data.",
+        "ERROR-FB-007": "Not found.",
+        "ERROR-FB-008": "The registration process has expired, please open the e-mail sent for the activation of your account again.",
+        "ERROR-FB-009": "There was an error deciphering.",
+        "ERROR-FB-010": "One or more of the updates couldn’t be carried out.",
+        "ERROR-FB-011": "One or more of the entities couldn’t be recovered.",
+        "ERROR-FB-012": "The requested operation is not allowed.",
+        "ERROR-FB-013": "There was an error converting the type of data.",
+        "ERROR-FB-014": "It’s not possible to create the benefit since it doesn’t have the correct information for the creation of files.",
+        "ERROR-FB-015": "It’s not possible to create a catalogue since the type of image required is not met.",
+        "ERROR-FB-016": "The password setting process has expired, please open the e-mail you received for its activation again.",
+        "ERROR-FB-017": "The client was not found in session.",
+        "ERROR-FB-020": "There was an error recovering the file information.",
+        "ERROR-FB-021": "There was an error updating the client information.",
+        "ERROR-FB-022": "There was an error deciphering this procedure's document.",
+        "ERROR-FB-024": "The user or password is incorrect.",
+        "ERROR-FB-025": "The password changing process has expired, please open the e-mail sent to you for its change again.",
+        "ERROR-FB-026": "There was an error trying to change the password.",
+        "ERROR-FB-027": "The password is incorrect, please try again.",
+        "ERROR-FB-028": "The document type of the selected file doesn’t match the document type in the box.",
+        "ERROR-FB-029": "There was an error breaking the link of the document.",
+        "ERROR-FB-031": "There was an error validating the ReCaptcha.",
+        "ERROR-FB-032": "We detected unusual activity on your account, we want to check you’re not a robot.",
+        "CIFRA-001": "Client not authorized.",
+        "RUNTIME-EX-01": "There was an error executing the service.",
+        "ERROR-PRODUCTO-02": "It’s not possible to delete the product because it contains procedure settings."
+      }
+    },
+    "footer": {
+      "copyright": "All Rights Reserved.",
+      "legal": "Privacy Notice",
+      "terms": "Terms and Conditions"
+    },
+    "home": {
+      "content": {
+        "first": "Store your important documents (certificates, deeds, wills and testaments, IDs, insurance policies, etc.) and make they’re always within reach.",
+        "second": "Speed up life insurance payouts claims for your family or beneficiaries.",
+        "third": "Remind your loved ones how important they are for you; schedule congratulations, confessions or messages of encouragement to be sent after you’re gone.",
+        "fourth": "Enjoy the great variety of discounts, promotions, and gifts thought out especially for you."
+      }
+    },
+    "menuItems": {
+      "advice": "Topics of Interest",
+      "bancomer": "Insurance policy",
+      "discounts": "Benefits",
+      "documents": "Documents",
+      "home": "Home",
+      "logout": "Logout",
+      "message": "Write a message",
+      "messages": "Messages",
+      "profile": "My profile",
+      "recipients": "Contacts",
+      "suggesting": "Send a suggestion",
+      "upload": "Upload a document",
+      "witnesses": "Witness",
+      "subTitles": {
+        "first": "Protected Documents",
+        "second": "Speed up your procedures",
+        "third": "Por Siempre Messages",
+        "fourth": "Benefits"
+      }
+    }
+  },
+  "login": {
+    "labels": {
+      "enter": "Enter",
+      "forgotPass": "Forgot your password?",
+      "keepLogin": "Stay logged in",
+      "login": "Login",
+      "pass": "Password",
+      "user": "E-mail",
+      "register": "You haven’t signed up to Por Siempre.",
+      "registerHref": "Log in here."
+    },
+    "messages": {
+      "modifiedPass": "The password was changed successfully.",
+      "wrongPass": "We’re sorry, the entered user or password are incorrect, please try again.",
+      "wrongUser": "The entered user doesn’t exist."
+    },
+    "modal": {
+      "password": {
+        "title": "Forgot your password?",
+        "emailregister": "Enter your e-mail address to reset your password.",
+        "email": "E-mail address"
+      },
+      "email": {
+        "title": "We sent you an e-mail. Please check your inbox.",
+        "link": "We sent you a secure link to access:",
+        "password": "Use it to reset your password."
+      }
+    },
+    "title": "Enter your account."
+  },
+  "mortgage": {
+    "labels": {
+      "themes": "No topics published.",
+      "help1": "Customer service number",
+      "help2": "Request personalized help",
+      "help3": "Customer service <br> number",
+      "help4": "Request <br> personalized help",
+      "helpInformation": "For further information call us at:",
+      "input": "Search topics of interest",
+      "errorSearch": "There is no match for your search."
+    },
+    "modal": {
+      "asesoria": {
+        "title": "Request personalized help.",
+        "request": "We will answer your shortly via e-mail.",
+        "subject": "Topics of interest",
+        "typeBusiness": "Write the topic of your interest",
+        "question": "How can we help?",
+        "placeholder": "Write your questions here...",
+        "suggestedContent": "You need to write your request for personalized help. Please try again.",
+        "matterContent": "The 'Write your subject' field is mandatory."
+      }
+    },
+    "success": "Your request for personalized help was sent correctly.",
+    "title": "Mortgage loans"
+  },
+  "messages": {
+    "labels": {
+      "empty": {
+        "description": "Schedule messages being sent while living after you’re gone and make your loved ones know that you’ll always remember them.",
+        "iconDate": "Select a sending date.",
+        "iconMessage": "You can use one of our templates.",
+        "iconPhoto": "Choose a special picture for you.",
+        "subtitle": "No messages added yet.",
+        "titleDate": "Date",
+        "titleMessage": "Create message",
+        "titlePhoto": "Add a picture"
+      },
+      "date": {
+        "title": "Choose one of the following options.",
+        "messageOption": {
+          "first": {
+            "title": "Messages while living",
+            "subTitle": "Eg. Anniversary, My daughter’s birthday..."
+          },
+          "second": {
+            "title": "Messages forever",
+            "subTitle": "Eg. the first Valentine’s day after confirming my passing."
+          }
+        },
+        "messageSubOption": {
+          "first": {
+            "title": "Immediately after my passing."
+          },
+          "second": {
+            "title": "A specific date after my passing"
+          }
+        },
+        "repeat": "Repeat",
+        "messageSubmitted": "Your message will be sent immediately after the confirmation of your passing.",
+        "totalTimes": {
+          "one": "Once",
+          "two": "Twice",
+          "tree": "Three times",
+          "four": "Four times",
+          "five": "Five times",
+          "six": "Six times",
+          "seven": "Seven times",
+          "eight": "Eight times",
+          "nine": "Nine times",
+          "ten": "Ten times",
+          "twenty": "Twenty times",
+          "twentyFive": "Twenty five times",
+          "thirty": "Thirty times",
+          "forty": "Forty times",
+          "fifty": "Fifty times"
+        }
+      },
+      "delete": {
+        "title": "delete message",
+        "question": "Are you sure you want to delete this message?"
+      },
+      "dashboard": {
+        "meta": {
+          "last": "Since",
+          "days": "days",
+          "day": "day",
+          "of": "of"
+        },
+        "recipient": {
+          "and": "and",
+          "dateSubmitted": "Sending date",
+          "empty": "There are no messages that match your search criteria.",
+          "more": "more",
+          "to": "To"
+        }
+      },
+      "steps": {
+        "message": "Message",
+        "image": "Image",
+        "date": "Data"
+      },
+      "text": {
+        "begin": "Begin",
+        "body": "Message",
+        "checker": "Spell check",
+        "stop": "Stop",
+        "subject": "Subject",
+        "template": "Select a template",
+        "title": "Title",
+        "recipient": "Contacts added to the message"
+      },
+      "image": {
+        "download": {
+          "title": "Upload from Por Siempre",
+          "subTitle": "Select the document you want to upload."
+        },
+        "title": "Add a picture to your message"
+      }
+    },
+    "buttons": {
+      "changeImage": "Change picture",
+      "create": "Create message",
+      "delete": "delete",
+      "edit": "Edit message",
+      "next": "Next",
+      "preview": "Preview message",
+      "programmed": "Scheduled messages",
+      "search": "Search messages",
+      "skip": "Skip this step",
+      "up": "Upload",
+      "upload": "Upload from my computer",
+      "uploadCloud": "Upload from Por Siempre"
+    }
+  },
+  "notifications": {
+    "labels": {
+      "h4": "Notifications",
+      "content": "No recent activity"
+    },
+    "carrousel": {
+      "partition": "from"
+    }
+  },
+  "policy": {
+    "title": "Active policies",
+    "newPolicy": "New policy",
+    "placeHolder": "Select an insurance policy",
+    "errorPolicy": "Select a policy to continue",
+    "selectActive": "Select a policy",
+    "noPolicy": "Policy number",
+    "product": "Product",
+    "updateConfirm": "Confirm your update",
+    "policy": "Policy",
+    "policyConfirm_1": "The policy registered in Por Siempre will be replaced by ",
+    "policyConfirm_2": "We’ll request you enter your username and password afterwards. Do you want to continue?",
+    "policySelected": "The policy registered in Por Siempre is expired, you can select another one to enter your account.",
+    "policyAdd": "The policy registered in Por Siempre is expired, you can add a different one to enter your account."
+  },
+  "profile": {
+    "buttons": {
+      "editUser": "Modify"
+    },
+    "main": {
+      "address": "Address",
+      "download": "Download contract",
+      "polize": "Policy linked to the account",
+      "user": "User information",
+      "security": "Security",
+      "survival": "Selected inactivity period",
+      "cell": "Mobile number",
+      "tell": "Landline number",
+      "curp": "CURP",
+      "photo": "Change picture",
+      "profilePhoto": "Profile picture",
+      "polizeFound": "We found your policy number"
+    },
+    "edit": {
+      "user": {
+        "title": "Edit user information"
+      },
+      "address": {
+        "city": "City",
+        "colony": "Area",
+        "intNumber": "Apt. no.",
+        "outNumber": "Building/House no.",
+        "postalCode": "Zip Code",
+        "state": "State",
+        "street": "Street",
+        "title": "Change address",
+        "town": "City",
+        "empty": "Complete your address information so we can provide you with a better service.",
+        "notAdd": "You haven’t added an address yet."
+      },
+      "polize": {
+        "title": "Change your insurance policy"
+      },
+      "security": {
+        "email": {
+          "name": "User/e-mail",
+          "title": "Modify username/e-mail",
+          "subTitle": "The e-mail address you register will be your username to access Por Siempre",
+          "newEmail": "New e-mail",
+          "confirmEmail": "Confirm your e-mail",
+          "password": "Por Siempre password"
+        },
+        "password": {
+          "name": "Password",
+          "title": "Change password"
+        }
+      },
+      "survival": {
+        "name": "Receive e-mails:",
+        "title": "Modify inactivity period"
+      },
+      "unsuscribe": {
+        "button": "Cancel the service",
+        "name": "I want to cancel the service",
+        "title": "Service cancellation",
+        "keep": "Keep my account",
+        "subTitle": "By cancelling this service, all your stored files will be deleted."
+      }
+    }
+  },
+  "recipients": {
+    "labels": {
+      "input": "Search contacts",
+      "associated": "Linked to the Beneficiary",
+      "insurance": "of Bancomer life insurance",
+      "showElements": "Show",
+      "hideElements": "Hie",
+      "formalities": "Procedures",
+      "folders": "Folders",
+      "documents": "Documents",
+      "messages": "Messages",
+      "errorSearch": "There are no elements matching your search criteria.",
+      "warning": "There are no documents linked to this contact."
+    },
+    "modal": {
+      "edit": "Edit Contact",
+      "delete": "Delete contact",
+      "user": "If you decide to delete this contact, you won’t be able to share with the following information with them:",
+      "question": "Are you sure  you want to delete",
+      "compQuestion": "from your contacts?"
+    },
+    "title": "Add contacts"
+  },
+  "recovery": {
+    "labels": {
+      "intro": "Enter the password you want to use to access <span class=\"purple bold-400\"> Por Siempre. </span> It must contain 8 alphanumeric characters (a combination of numbers and letters).",
+      "password1": "New password",
+      "password2": "Repeat the password",
+      "security": "Safe password"
+    },
+    "title": "Set your password"
+  },
+  "redirect": {
+    "terms": "/en/terms-and-conditions",
+    "privacy": "/en/privacy-notice",
+    "login": "/en/login",
+    "register": "/en/register",
+    "home": "/en",
+    "faq": "/en/faq"
+  },
+  "register": {
+    "gender": {
+      "man": "Male",
+      "woman": "Female"
+    },
+    "step1": {
+      "description": "Enter the requested information to start your registration.",
+      "errorMessages": {
+        "matchingEmail": "The entered e-mail address doesn’t match the confirmation.",
+        "requiredPhone": "At least one phone number is required."
+      },
+      "labels": {
+        "acceptCheck": "I have read and accept the",
+        "acceptTerm": "Terms and Conditions",
+        "acceptPriv": "and Privacy Notice.",
+        "confirmEmail": "Confirm your e-mail",
+        "firstName": "Middle Name",
+        "genre": "Gender",
+        "lastName": "Last Name",
+        "login": "If you have an account on Por Siempre. ",
+        "loginHref": "<br>Login.",
+        "man": "Male",
+        "mobile": "Mobile number. <em>10 digits</em>",
+        "name": "Name",
+        "names": "Name (s)",
+        "next": "Next",
+        "phone": "Landline number. <em>10 digits including area code</em>",
+        "selectGenre": "Select your gender",
+        "woman": "Female"
+      },
+      "title": "Let your memories last forever!"
+    },
+    "step2": {
+      "labels": {
+        "message1": "Check the <span class=\"bold-400\">e-mail</span> and activate your account so you can enjoy Por Siempre’s benefits.",
+        "message2": "This link will be inactive shortly, so we recommend you activate your account as soon as possible.",
+        "start": "Back to the homepage"
+      },
+      "title": "Signup successful!"
+    }
+  },
+  "recover": {
+    "step1": {
+      "labels": {
+        "continue": "Enter",
+        "message": "Enter your e-mail address to reset your password.",
+        "user": "e-mail"
+      },
+      "title": "Forgot your password?"
+    },
+    "step2": {
+      "labels": {
+        "message1": "We’ve sent you a secure URL to:",
+        "message2": "Use it to reset your password"
+      },
+      "title": "Check your e-mail"
+    }
+  },
+  "restore": {
+    "labels": {
+      "confirmPass": "Confirm passsword",
+      "finish": "Finish",
+      "message": "Enter the password you want to use to access Por Siempre. It must contains at least 8 alphanumeric characters (a combination of letters and numbers).",
+      "newPass": "New Password"
+    },
+    "title": "Set your password"
+  },
+  "signup": {
+
+  },
+  "suggestion": {
+    "labels": {
+      "content": "Your suggestion:",
+      "title": "Suggestion",
+      "opinion": "We want to know your opinion!",
+      "question": "Enter your suggestion here...",
+      "errorSuggestion": "Please select your suggestion.",
+      "errorContent": "Please enter the content of your suggestion."
+    }
+  },
+  "survival": {
+    "client": {
+      "title": "Survival confirmation",
+      "message": "Thanks for confirming you’re well!"
+    },
+    "witness": {
+      "title": "Survival process",
+      "message": "Thanks for answering our request!"
+    }
+  },
+  "witnesses": {
+    "add": {
+      "title": "Add witness",
+      "name": "Add"
+    },
+    "edit": {
+      "add": "Add witness.",
+      "name": "Edit",
+      "title": "Edit Witnesses"
+    },
+    "replace": {
+      "title": "Substitute Witnesses",
+      "subTitle": "Select the contact of the person you wish to invite as a witness from the search engine. If they’re not on your list, add a new one.",
+      "name": "Sustituir",
+      "receiver": "Contact",
+      "search": "Search your existing contacts",
+      "addWitness": "Add new witness",
+      "requireWitness": "You must select at least one contact as a witness."
+    },
+    "forward": {
+      "title": "Resend request",
+      "accept": "Request accepted",
+      "article": "on the",
+      "send": "Request sent on the",
+      "pending": "pending confirmation",
+      "rejected": "Request rejected,",
+      "recommendation": "We recommend you substitute this witness."
+    },
+    "slider": {
+      "first": {
+        "content": "Select your witnesses",
+        "hi": "Hi! ",
+        "subContent": "Make sure they are three people who are close to you, since they’ll confirm when you pass away.",
+        "welcome": "!"
+      },
+      "second": {
+        "content": "Your witnesses are the key for the correct functioning of Por Siempre."
+      },
+      "third": {
+        "content": "Make sure you have a good relationship with the Witness."
+      },
+      "fourth": {
+        "content": "Select your inactivity period.",
+        "subContent": "If something happens to you we must know as soon as possible so we can send out what you appointed to each of your contacts and so your beneficiaries can start the claim process of your indemnization.",
+        "question": "After what period of inactivity should we check if you’re fine? ",
+        "15days": "After 15 days of inactivity.",
+        "30days": "After 30 days of inactivity.",
+        "60days": "After 60 days of inactivity."
+      }
+    },
+    "labels": {
+      "input": "Search contacts"
+    },
+    "errors": {
+      "one": "Only one witness has accepted your request."
+    },
+    "title": "Add contacts",
+    "subtitles": {
+      "pending": "Requests pending confirmation",
+      "rejected": "Rejected requests",
+      "success": "Witnesses",
+      "witness": "Witness",
+      "unsigned": "Witnesses not registered"
+    },
+    "confirmWitness": {
+      "acept": {
+        "title": "I agree",
+        "message": "Thanks for accepting the request!"
+      },
+      "fail": {
+        "title": "I don’t agree to be a witness.",
+        "message": "Request not accepted."
+      }
+    }
+  }
+}

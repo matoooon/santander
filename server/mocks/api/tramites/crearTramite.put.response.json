@@ -1,0 +1,60 @@
+{
+  "json": {
+    "descripcionProducto": "njEDNstcf_",
+    "listadoBeneficiarios": [
+      {
+        "idAsegurado": 4537419037690,
+        "numeroBeneficiario": -1667765608,
+        "nombre": "oLccQtDDQu",
+        "amaterno": "_oLPwyJviz",
+        "apaterno": "MPVwMNoEzl",
+        "fechaIngreso": 1448299353487,
+        "tipoBeneficiario": "sOMaeIGX48",
+        "fechaNacimiento": 1448299353487
+      },
+      {
+        "idAsegurado": 4537422824067,
+        "numeroBeneficiario": -283167976,
+        "nombre": "Qm2AYkO46y",
+        "amaterno": "Bq6gw3eY6o",
+        "apaterno": "1Si6Fe2kYs",
+        "fechaIngreso": 1448299353491,
+        "tipoBeneficiario": "CYSxTdWyvP",
+        "fechaNacimiento": 1448299353488
+      },
+      {
+        "idAsegurado": 4537426129569,
+        "numeroBeneficiario": 701017344,
+        "nombre": "6C1pgvJ63i",
+        "amaterno": "pWRcSZNBWg",
+        "apaterno": "EqD7Rl7u5g",
+        "fechaIngreso": 1448299353492,
+        "tipoBeneficiario": "dlsA3UjSyx",
+        "fechaNacimiento": 1448299353492
+      },
+      {
+        "idAsegurado": 4537427386912,
+        "numeroBeneficiario": -691888785,
+        "nombre": "75Qj2TPSSR",
+        "amaterno": "Tl84HhD_lG",
+        "apaterno": "MyuoWajmEH",
+        "fechaIngreso": 1448299353493,
+        "tipoBeneficiario": "o68c32gJ5l",
+        "fechaNacimiento": 1448299353493
+      },
+      {
+        "idAsegurado": 4537428582961,
+        "numeroBeneficiario": -629440577,
+        "nombre": "7MxA8vY8t0",
+        "amaterno": "deyEOwoRKp",
+        "apaterno": "bKIltv8m2t",
+        "fechaIngreso": 1448299353495,
+        "tipoBeneficiario": "QQs39bKa7C",
+        "fechaNacimiento": 1448299353494
+      }
+    ],
+    "numeroPoliza": "GZiFK11m3q",
+    "idTramite": "xxx"
+  },
+  "status": 200
+}

@@ -1,0 +1,18 @@
+{
+  "json": {
+    "id": 1,
+    "destinatario": {
+      "id": 99,
+      "nombre": "Juan",
+      "apellidoPaterno": "Dolores",
+      "apellidoMaterno": "Zambrano",
+      "telefonoFijo": 564646679,
+      "telefonoMovil": 98075478,
+      "correoElectronico": "dolores@mail.com",
+      "esTestigo": true,
+    },
+    "estatusTestigo": "EN_ESPERA_DE_CONFIRMACION",
+    "fechaEnvioConfirmacion": 1436977918925
+  },
+  "status": 200
+}

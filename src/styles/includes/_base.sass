@@ -1,0 +1,59 @@
+a
+  display: inline-block
+  color: inherit
+  cursor: pointer
+  text-decoration: none
+  &[href^=tel]
+    cursor: default
+  img
+    display: block
+
+body
+  font-family: 'Open Sans'
+  font-weight: 300
+  margin: 0
+
+fieldset
+  border: none
+  margin: 0
+  padding: 0
+
+hr
+  border: solid color(gray)
+  border-width: 1px 0 0
+  width: 100%
+
+img
+  max-width: 100%
+
+input, textarea
+  box-shadow: none
+
+p
+  margin: 1.4em 0
+  &:first-child
+    margin-top: 0
+  &:last-child
+    margin-bottom: 0
+  & + p
+    margin-top: 0
+
+label.check
+  display: block
+  cursor: pointer
+  padding-left: 26px
+  color: red
+  background: url('../assets/check/check_off.png') left center no-repeat
+
+label.check input
+  position: absolute
+  left: -9999px
+
+label.check.c_on
+  color: blue
+  background: url('../assets/check/check_on.png')  left center no-repeat
+.margin-top10
+  margin-top: 10px
+.title-2
+  font-size: 16px
+  font-weight: 600

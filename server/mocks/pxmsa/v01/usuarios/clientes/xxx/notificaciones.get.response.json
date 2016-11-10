@@ -1,0 +1,73 @@
+{
+  "json": {
+    "registros": [{
+      "id" : "0",
+      "notificacion" : "Hola buenos días",
+      "link" : "/witnesses",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 1",
+      "visitado" : false,
+      "pintado": false
+    },
+    {
+      "id" : "1",
+      "notificacion" : "Somos unos chingones con el módulo de notificaciones",
+      "link" : "/recipients",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 2",
+      "visitado" : false,
+      "pintado": false
+    },
+    {
+      "id" : "2",
+      "notificacion" : "Este es el mejor módulo",
+      "link" : "/advices",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 3",
+      "visitado" : true
+    },
+    {
+      "id" : "3",
+      "notificacion" : "De poca",
+      "link" : "/witnesses",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 4",
+      "visitado" : false,
+      "pintado": false
+    },
+    {
+      "id" : "4",
+      "notificacion" : "Super fregón",
+      "link" : "/witnesses",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 5",
+      "visitado" : true
+    },
+    {
+      "id" : "5",
+      "notificacion" : "Nos han pringado",
+      "link" : "/witnesses",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 6",
+      "visitado" : false,
+      "pintado": false
+    },
+    {
+      "id" : "6",
+      "notificacion" : "Verifícalo tío",
+      "link" : "/witnesses",
+      "fechaCreacion" : "25/07/2015 45:34:23",
+      "fechaVisitado" : "25/07/2015 45:34:23",
+      "titulo": "Titulo 7",
+      "visitado" : false,
+      "pintado": false
+    }]
+  },
+  "status": 200
+}

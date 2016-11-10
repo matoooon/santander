@@ -1,0 +1,125 @@
+{
+  "json": {
+    "beneficiarios": [
+      {
+        "id": "8_A5xcz7rJ",
+        "nombre": "bCzVabr8nX",
+        "apellidoPaterno": "1had4g47vB",
+        "apellidoMaterno": "Nbe8zDgQp4",
+        "idBeneficiarioDestinatario": "xxx",
+        "idDestinatarioAsociado": "xxx",
+        "correoElectronico": "zVrEBLsgl6",
+        "numeroCelular": "xO3qGZUcS9",
+        "numeroFijo": "8Na6YRHMQK",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "jENE8foXsF",
+        "nombre": "bedfHugNq6",
+        "apellidoPaterno": "pN89iUrN5m",
+        "apellidoMaterno": "OLaVT3WM40",
+        "idBeneficiarioDestinatario": "34ZmtYT6xg",
+        "idDestinatarioAsociado": null,
+        "correoElectronico": "CWkbtNnfdV",
+        "numeroCelular": "tKUHoK21WA",
+        "numeroFijo": "3fGf3enshu",
+        "tieneDestinatarioAsociado": false
+      },
+      {
+        "id": "5_WeE_VaQY",
+        "nombre": "sJsNtR9d9m",
+        "apellidoPaterno": "vNRLEw3uxW",
+        "apellidoMaterno": "gdOlDj6RpH",
+        "idBeneficiarioDestinatario": "AqLTJVHVtS",
+        "idDestinatarioAsociado": "xxx",
+        "correoElectronico": "nScrTPjqzF",
+        "numeroCelular": "WNYehspJTQ",
+        "numeroFijo": "LAcvmQbMMt",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "hKiAW75Fbz",
+        "nombre": "7jtTFo5_7B",
+        "apellidoPaterno": "lh3RsP45XR",
+        "apellidoMaterno": "AjSGcokZv4",
+        "idBeneficiarioDestinatario": "eLqaM2_NK9",
+        "idDestinatarioAsociado": "xxx",
+        "correoElectronico": "b8q8qbZEwv",
+        "numeroCelular": "SQDJHwJh1l",
+        "numeroFijo": "ZTxP9j5jDA",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "QW0s3JzoLL",
+        "nombre": "1_asL_tQJp",
+        "apellidoPaterno": "8a4Pq5HIY7",
+        "apellidoMaterno": "JFsNU65Qq5",
+        "idBeneficiarioDestinatario": "K9KEXWLOL_",
+        "idDestinatarioAsociado": "xxx",
+        "correoElectronico": "8YfquNbYMy",
+        "numeroCelular": "pbnwxi3J9i",
+        "numeroFijo": "DbtBjptlTz",
+        "tieneDestinatarioAsociado": true
+      }
+    ],
+    "destinatarios": [
+      {
+        "id": "ZrsgeGbhKo",
+        "nombre": "lbQ2L7TJuV",
+        "apellidoPaterno": "2kQT_cQt29",
+        "apellidoMaterno": "w4KPn2o8KC",
+        "idBeneficiarioDestinatario": "xxx",
+        "correoElectronico": "09jfdqL3Fs",
+        "numeroCelular": "3pAOu6Az2I",
+        "numeroFijo": "ZRVo7Mretb",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "dLlX4uTmEm",
+        "nombre": "Z_bOuvFAu4",
+        "apellidoPaterno": "rFrA6LVj08",
+        "apellidoMaterno": "JbjHdgrSi2",
+        "idBeneficiarioDestinatario": "xxxpp",
+        "correoElectronico": "S12QLGjwQN",
+        "numeroCelular": "vqJu_u3HAs",
+        "numeroFijo": "NOTq2AEVPD",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "QmolIPCwbR",
+        "nombre": "ipxyoRCsKy",
+        "apellidoPaterno": "9HmGERmC5d",
+        "apellidoMaterno": "VPAI2jeXLh",
+        "idBeneficiarioDestinatario": "xxxu",
+        "correoElectronico": "Xq7toGx_Nq",
+        "numeroCelular": "UMzNF3YwOd",
+        "numeroFijo": "c5AoAMDRiq",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "1Ryzy4VvrR",
+        "nombre": "awtADcoOGm",
+        "apellidoPaterno": "QmCpK537jT",
+        "apellidoMaterno": "fpT4ZY1Ct3",
+        "idBeneficiarioDestinatario": "xxyx",
+        "correoElectronico": "223tZCiHUH",
+        "numeroCelular": "N8qC8epHCh",
+        "numeroFijo": "Paflk91Z_r",
+        "tieneDestinatarioAsociado": true
+      },
+      {
+        "id": "rCe41nqypp",
+        "nombre": "dRzvzi5Em5",
+        "apellidoPaterno": "Ddlcweqzle",
+        "apellidoMaterno": "O_ywFqXk86",
+        "idBeneficiarioDestinatario": "xxxt",
+        "correoElectronico": "kpGffYcKtv",
+        "numeroCelular": "nOBMxIFWhw",
+        "numeroFijo": "qLgNANVbgl",
+        "tieneDestinatarioAsociado": true
+      }
+    ],
+    "contieneBeneficiarios": true
+  },
+  "status": 200
+}

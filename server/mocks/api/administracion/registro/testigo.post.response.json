@@ -1,0 +1,19 @@
+{
+  "json": {
+    "fechaEnvioConfirmacion": 1436999431209,
+    "fechaConfirmacion": 1436999431209,
+    "destinatario": {
+        "nombre": "aaa",
+        "correoElectronico": "pina@gmail.com",
+        "apellidoMaterno": "gato",
+        "apellidoPaterno": "gato",
+        "telefonoMovil": "5523360745",
+        "telefonoFijo": "5523360745",
+        "esTestigo": true,
+        "id": "B_8RnDKHdY"
+    },
+    "estatusTestigo": "NO_ACEPTADO",
+    "id": "ccc"
+  },
+  "status": 200
+}
