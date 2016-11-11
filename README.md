@@ -1,4 +1,4 @@
-# Proyecto Front de Multiasistencia Mensajes de Alivio - Área privada
+# Proyecto Ejemplo Santander
 
 ## Inicio rápido
 1. Instalar Node.js. En Linux, instalar por separado el gestor de paquetes npm
