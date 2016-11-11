@@ -14,7 +14,8 @@
     var routes = {
       '/': {
         deps: [
-          'app/home/homeController.js'
+          'app/home/homeController.js',
+          'app/home/homeFactory.js'
         ],
         otherwise: true,
         templateUrl: 'app/home/main.html'

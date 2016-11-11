@@ -2,6 +2,7 @@
   'use strict';
 
   angular.module('app.commons', [
-    'ngRoute'
+    'ngRoute',
+    'chart.js'
   ]);
 })();

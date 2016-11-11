@@ -29,7 +29,7 @@ function apiHandler(request, response) {
         response
           .status(data.status)
           .json(data.json || {})
-      }, 2000)
+      }, 1000)
     } catch(error) {
       return response.sendStatus(404)
     }
@@ -78,8 +78,7 @@ app
   .use(liveReload({ port: process.env.APP_LIVE_PORT }))
   .use(express.static(config.build))
   .use(crossDomain)
-  .use('/api', apiHandler)
-  .use('/pxmsa', apiHandler)
+  .use('/workshop', apiHandler)
   .listen(process.env.APP_PORT)
 
 open('http://localhost:' + process.env.APP_PORT)

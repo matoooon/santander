@@ -1,0 +1,10 @@
+{
+	"json": {
+	"porcentaje": 100,
+	"listaProductos":[{
+		"nombre": "TDC",
+		"clientes": 200
+	}]
+},
+	"status": 200
+}

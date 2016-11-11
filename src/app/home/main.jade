@@ -1,29 +1,36 @@
 .home(ng-controller="HomeController as home")
   .container.panel
     .filters.col-md-4
-      .segment.col-md-12.margin-top10
+      hr
+      .segment.col-md-12
         .col-md-12
           .col-md-10.title-2 SEGMENTO
-          .col-md-2 T
-        ul.col-md-12
-          li Select
-          li Preferente
-          li Clasico
+          .col-md-2
+            i(class="material-icons" toggle=".details-segments" visible="true") expand_more
+        ul.details-segments.col-md-12(
+          data-animation="upDown"
+          data-exit="false"
+          data-speed="200"
+        )
+          li(ng-repeat="segment in home.segments") {{segment.name}}
       hr
       .product.col-md-12
         .col-md-12
           .col-md-10.title-2 PRODUCTO
-          .col-md-2 T
-        ul.col-md-12
-          li.col-md-6 Nómina
-          li.col-md-6 Credito
-          li.col-md-6 Seguro
-          li.col-md-6 Paquetes
-          li.col-md-6 Captación
-          li.col-md-6 Lealtad
-          li.col-md-6 Dimocilación
-          li.col-md-6 Paquetes
-          li.col-md-6 Afiliación de canales
+          .col-md-2
+            i(class="material-icons" toggle=".details-products" visible="true") expand_more
+        ul.details-products.col-md-12(
+           data-animation="upDown"
+          data-exit="false"
+          data-speed="200"
+        )
+          li.col-md-6(ng-repeat="product in home.products") {{product.name}}
+      hr
     .graph.col-md-8
       .segment
+        canvas(
+          id="doughnut"
+          class="chart chart-doughnut"
+          chart-data="home.data" chart-labels="home.labels"
+        )
       .productS

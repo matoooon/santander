@@ -10,6 +10,10 @@ html(ng-app="app")
     // bower:css
     // endbower
     link(href="./styles/main.css" rel="stylesheet")
+    link(href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet")
+    link(href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet")
+
     // endbuild
   body(ng-cloak)
     include app/global/header
@@ -20,11 +24,18 @@ html(ng-app="app")
   // build:js js/public.min.js
   // bower:js
   // endbower
-  script(src="./js/modules/app.js")
-  script(src="./js/modules/app.commons.js")
-  script(src="./js/modules/app.constants.js")
-  script(src="./js/modules/app.directives.js")
-  script(src="./js/modules/app.routes.js")
-  script(src="./js/modules/app.filters.js")
-  script(src="./js/modules/app.services.js")
-  script(src="./js/providers/route-helper.js")
+  script(src="serverInfo.js")
+  script(src="js/modules/app.js")
+  script(src="js/modules/app.commons.js")
+  script(src="js/modules/app.constants.js")
+  script(src="js/modules/app.directives.js")
+  script(src="js/modules/app.routes.js")
+  script(src="js/modules/app.filters.js")
+  script(src="js/modules/app.services.js")
+  script(src="js/constants/headerEnum.js")
+  script(src="js/constants/serverInfo.js")
+  script(src="js/directives/toggle/toggle.js")
+  script(src="js/factories/api-builder.js")
+  script(src="js/factories/api-adapter.js")
+  script(src="js/factories/catch-error.js")
+  script(src="js/providers/route-helper.js")
