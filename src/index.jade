@@ -7,14 +7,14 @@ html(ng-app="app")
     meta(name="description" content="Demo project")
     meta(name="viewport" content="width=device-width, initial-scale=1")
     base(href="/")
-
+    link(href="./styles/main.css" rel="stylesheet")
+    link(href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet")
+    link(href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet")
+    script(async src="https://www.gstatic.com/charts/loader.js")
     // build:css styles/main.css
     // bower:css
     // endbower
-    link(href="./styles/main.css" rel="stylesheet")
-    link(href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet")
-    link(href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet")
+
 
     // endbuild
   body(ng-cloak)
@@ -36,6 +36,7 @@ html(ng-app="app")
   script(src="js/modules/app.services.js")
   script(src="js/constants/headerEnum.js")
   script(src="js/constants/serverInfo.js")
+  script(src="js/constants/colorsEnum.js")
   script(src="js/directives/toggle/toggle.js")
   script(src="js/factories/api-builder.js")
   script(src="js/factories/api-adapter.js")

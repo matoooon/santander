@@ -1,10 +1,49 @@
 {
-	"json": {
-	"porcentaje": 100,
-	"listaProductos":[{
-		"nombre": "TDC",
-		"clientes": 200
-	}]
-},
-	"status": 200
+  "json": {
+    "porcentaje": 71,
+    "listaProductos": [
+      {
+        "nombre": "Nomina",
+        "clientes": 225,
+        "tipoProducto": "NOMINA"
+      },
+      {
+        "nombre": "Seguro",
+        "clientes": 574,
+        "tipoProducto": "SEGURO"
+      },
+      {
+        "nombre": "Captacion",
+        "clientes": 2504,
+        "tipoProducto": "CAPTACION"
+      },
+      {
+        "nombre": "Domicialiacion",
+        "clientes": 1139,
+        "tipoProducto": "DOMICILIACION"
+      },
+      {
+        "nombre": "Credito",
+        "clientes": 570,
+        "tipoProducto": "CREDITO"
+      },
+      {
+        "nombre": "Paquetes",
+        "clientes": 2165,
+        "tipoProducto": "PAQUETES"
+      },
+      {
+        "nombre": "Canales",
+        "clientes": 1747,
+        "tipoProducto": "CANALES"
+      },
+      {
+        "nombre": "Lealtad",
+        "clientes": 975,
+        "tipoProducto": "LEALTAD"
+      }
+    ],
+    "version": "Version 0.1"
+  },
+  "status": 200
 }

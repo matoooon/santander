@@ -1,18 +1,7 @@
 .home(ng-controller="HomeController as home")
   .container.panel
+    .version {{home.version}}
     .filters.col-md-4
-      hr
-      .segment.col-md-12
-        .col-md-12
-          .col-md-10.title-2 SEGMENTO
-          .col-md-2
-            i(class="material-icons" toggle=".details-segments" visible="true") expand_more
-        ul.details-segments.col-md-12(
-          data-animation="upDown"
-          data-exit="false"
-          data-speed="200"
-        )
-          li(ng-repeat="segment in home.segments") {{segment.name}}
       hr
       .product.col-md-12
         .col-md-12
@@ -24,13 +13,33 @@
           data-exit="false"
           data-speed="200"
         )
-          li.col-md-6(ng-repeat="product in home.products") {{product.name}}
+          li.pointer.col-md-6(
+            ng-repeat="product in home.products track by $index"
+            ng-init="myStyle = home.getColor($index)"
+            ng-style="myStyle"
+            ng-click="home.getFilterData()"
+          ) {{product}}
+      hr
+      .segment.col-md-12
+        .col-md-12
+          .col-md-10.title-2 SEGMENTO
+          .col-md-2
+            i(class="material-icons" toggle=".details-segments" visible="true") expand_more
+        ul.details-segments.col-md-12(
+          data-animation="upDown"
+          data-exit="false"
+          data-speed="200"
+        )
+          li.pointer(
+            ng-repeat="segment in home.segments"
+            ng-click="home.getFilterData()"
+          ) {{segment}}
       hr
     .graph.col-md-8
-      .segment
-        canvas(
-          id="doughnut"
-          class="chart chart-doughnut"
-          chart-data="home.data" chart-labels="home.labels"
-        )
+      .segment.col-md-12
+        div(id="donutchart" style="width: 100%; height: 500px;")
+        .overlay#text_donut {{home.porcentaje}} %
+        .overlay-label
+          div {{home.totalClients}}
+          .text-name Clientes
       .productS

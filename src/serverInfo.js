@@ -1,5 +1,6 @@
 var $configInfo  = {
  "serverInfo": {
-    "dynPath": "http://localhost:5101"
+    "dynPath": "https://microcampanias-mxneojupcli-dev.appls.cto2.paas.gsnetcloud.corp"
+    //"dynPath": "http://localhost:5101"
   }
-}
+};

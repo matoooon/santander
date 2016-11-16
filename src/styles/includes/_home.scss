@@ -5,16 +5,62 @@
     .filters {
       background: #f1f1f1;
       box-shadow: 3px 0px 7px -2px #ccc;
+      min-height: 500px;
       .segment, .product {
         ul {
           list-style: none;
           li {
-            border-left: 3px solid aqua;
+            border-left: 3px solid;
             margin: 7px 0;
             padding-left: 8px;
+            &:hover{
+              background: #ccc;
+            }
+          }
+        }
+
+      }
+    }
+    .graph {
+      .segment {
+        position: relative;
+        .overlay {
+          display:block;
+          width:130px;
+          height:auto;
+          text-align:center;
+          vertical-align: middle;
+          position: absolute;
+          top: 140px;
+          left: 224px;
+          font-size: 40px;
+          margin-top: 60px;
+        }
+        .overlay-label {
+          display: block;
+          width: 108px;
+          height:auto;
+          text-align:center;
+          vertical-align: middle;
+          position: absolute;
+          top: 105px;
+          left: 234px;
+          margin-top: 140px;
+          font-size: 16px;
+          font-weight: 600;
+          .text-name {
+            font-size: 20px;
           }
         }
       }
+    }
+    .version {
+      float: right;
+      top: -45px;
+      position: relative;
+      font-size: 20px;
+      color: white;
+      font-weight: 600;
     }
   }
 }
